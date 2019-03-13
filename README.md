@@ -24,8 +24,8 @@ All of the assets in this pack are free to use legally in your projects, even co
 ## Media
 
 ### Tilesets & Characters
-![Beach](http://www.ascensiongamedev.com/resources/filehost/d09d39d0fb0a0063c553a6d281a1949a.png)
-![Graveyard](http://www.ascensiongamedev.com/resources/filehost/3e9032e39cc04cb8b504fcf714918906.png)
+![Beach](http://www.ascensiongamedev.com/resources/filehost/53bb00ffe62569f3d3b2ce3ab8f05dc1.png)
+![Graveyard](http://www.ascensiongamedev.com/resources/filehost/29fce23bacfc498731fc4dad3b694e93.png)
 ![Town](http://www.ascensiongamedev.com/resources/filehost/3ffbfe1102c3de4d6227ce6e7935f576.png)
 ![Interior](http://www.ascensiongamedev.com/resources/filehost/d924e2abb0d8a07cf4728c59965b7c30.png)
 ![Cave](http://www.ascensiongamedev.com/resources/filehost/a4125135495dc62302c4583c1b61aefb.png)

@@ -25,12 +25,12 @@ All of the assets in this pack are free to use legally in your projects, even co
 
 ### Tilesets & Characters
 ![Beach](http://www.ascensiongamedev.com/resources/filehost/53bb00ffe62569f3d3b2ce3ab8f05dc1.png)
+![Cave](http://www.ascensiongamedev.com/resources/filehost/3b7ea7c29a64177e953d3a4a5b9c37f5.png)
 ![Graveyard](http://www.ascensiongamedev.com/resources/filehost/29fce23bacfc498731fc4dad3b694e93.png)
-![Town](http://www.ascensiongamedev.com/resources/filehost/3ffbfe1102c3de4d6227ce6e7935f576.png)
-![Interior](http://www.ascensiongamedev.com/resources/filehost/d924e2abb0d8a07cf4728c59965b7c30.png)
-![Cave](http://www.ascensiongamedev.com/resources/filehost/a4125135495dc62302c4583c1b61aefb.png)
-![Waterfall](http://www.ascensiongamedev.com/resources/filehost/2fdf1491ab527f942583be38d026341a.png)
-![Forest](http://www.ascensiongamedev.com/resources/filehost/719f15921d519747b4684f758d804e84.png)
+![Town](http://www.ascensiongamedev.com/resources/filehost/b4d625200c377ab0a823ed583392e435.png)
+![Interior](http://www.ascensiongamedev.com/resources/filehost/4c84a17b7d26aa35ec3c3ce79e24115e.png)
+![Waterfall](http://www.ascensiongamedev.com/resources/filehost/603a5da5d41859a1bfd60d81cbaf2b6c.png)
+![Forest](http://www.ascensiongamedev.com/resources/filehost/f01e8c53fe9392101d44baaff8399e1b.png)
 
 ### Character Generator
 ![Generator](http://www.ascensiongamedev.com/resources/filehost/dcd0706e9340d9aa0dacf49bef6bddc9.png)

@@ -13,6 +13,7 @@ All of the assets in this pack are free to use legally in your projects, even co
  * [PixelFox](https://www.ascensiongamedev.com/profile/264-pixelfox/) - Animations, Characters, Monsters, Paperdolls, and Tiles (Ref: [1](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/))
  * [Zetasis](https://www.ascensiongamedev.com/profile/13-zetasis/) - Tileset Additions, Characters, Resources, Character Generator Components, Paperdolls, and More! (Ref: [1](https://www.ascensiongamedev.com/topic/3082-more-agd-graphics-tileset-update/?page=1), [2](https://www.ascensiongamedev.com/topic/3189-intersect-character-generator/))
  * [Murdoc](https://www.ascensiongamedev.com/profile/3-xenogene/) - Sprite Modifications and Many Tilesets
+ * [Aesthetic](https://www.ascensiongamedev.com/profile/377-aesthetic/) - New UI Design/Graphics (Ref [1](https://www.ascensiongamedev.com/topic/3648-dev-blog-262019-ui-overhaul-live-progress-thread/?do=findComment&comment=35804))
  
 
 ## Licensing
@@ -31,6 +32,7 @@ All of the assets in this pack are free to use legally in your projects, even co
 ![Interior](http://www.ascensiongamedev.com/resources/filehost/4c84a17b7d26aa35ec3c3ce79e24115e.png)
 ![Waterfall](http://www.ascensiongamedev.com/resources/filehost/603a5da5d41859a1bfd60d81cbaf2b6c.png)
 ![Forest](http://www.ascensiongamedev.com/resources/filehost/f01e8c53fe9392101d44baaff8399e1b.png)
+![Interior Alt](http://www.ascensiongamedev.com/resources/filehost/20d6a98ef687bf4373ca85c65f30ab15.png)
 
 ### Character Generator
 ![Generator](http://www.ascensiongamedev.com/resources/filehost/dcd0706e9340d9aa0dacf49bef6bddc9.png)
@@ -47,7 +49,8 @@ Generator Examples:
 
 
 ## Contributing
-We'd love to expand this pack with more assets! Please feel free to contirbute assets to this repo via a PR or reaching out to [jcsnider]() via AGD.  We have an ongoing wishlist here if you are looking for ideas.
+We'd love to expand this pack with more assets! Please feel free to contirbute assets to this repo via a PR or reaching out to [jcsnider](https://www.ascensiongamedev.com/profile/1-jcsnider/) via AGD.  We have an ongoing wishlist here if you are looking for ideas.
 
 
 ## Acknowledgements
+We cannot thank George, PixelFox, Zetasis, Murdoc, Aesthetic, and everyone else who contributed to this pack enoungh. Your hard work made all of this possible! Thanks again!

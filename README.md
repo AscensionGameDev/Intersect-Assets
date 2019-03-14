@@ -8,12 +8,14 @@ All of the assets in this pack are free to use legally in your projects, even co
 
 
 ## Authors
- * [Ascension Game Dev](https://www.ascensiongamedev.com/) - Intersect Game Engine, Commissioning parts of, and Compiling this Asset Pack, Character Generator Software
- * [George](https://www.ascensiongamedev.com/profile/20-george/) - Graphic Style, Original Tilesets, and Items (Ref: [1](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/))
- * [PixelFox](https://www.ascensiongamedev.com/profile/264-pixelfox/) - Animations, Characters, Monsters, Paperdolls, and Tiles (Ref: [1](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/))
- * [Zetasis](https://www.ascensiongamedev.com/profile/13-zetasis/) - Tileset Additions, Characters, Resources, Character Generator Components, Paperdolls, and More! (Ref: [1](https://www.ascensiongamedev.com/topic/3082-more-agd-graphics-tileset-update/?page=1), [2](https://www.ascensiongamedev.com/topic/3189-intersect-character-generator/))
- * [Murdoc](https://www.ascensiongamedev.com/profile/3-xenogene/) - Sprite Modifications and Many Tilesets
- * [Aesthetic](https://www.ascensiongamedev.com/profile/377-aesthetic/) - New UI Design/Graphics (Ref [1](https://www.ascensiongamedev.com/topic/3648-dev-blog-262019-ui-overhaul-live-progress-thread/?do=findComment&comment=35804))
+ * [Ascension Game Dev](https://www.ascensiongamedev.com/) - Commissioning parts of, and Compiling this Asset Pack
+ * JC Snider [(aka jcsnider)](https://www.ascensiongamedev.com/profile/1-jcsnider/) - Character Generation Software
+ * Joe Bridges [(aka Kibbelz)](https://www.ascensiongamedev.com/profile/2-kibbelz/) - Character Generation Software
+ * George Bailey [(aka George)](https://www.ascensiongamedev.com/profile/20-george/) - Graphic Style, Original Tilesets, and Items (Ref: [1](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/))
+ * PixelFox [(aka PixelFox)](https://www.ascensiongamedev.com/profile/264-pixelfox/) - Animations, Characters, Monsters, Paperdolls, and Tiles (Ref: [1](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/))
+ * Jon Collier [(aka Zetasis)](https://www.ascensiongamedev.com/profile/13-zetasis/) - Tileset Additions, Characters, Resources, Character Generator Components, Paperdolls, and More! (Ref: [1](https://www.ascensiongamedev.com/topic/3082-more-agd-graphics-tileset-update/?page=1), [2](https://www.ascensiongamedev.com/topic/3189-intersect-character-generator/))
+ * Cordell Carrier [(aka Murdoc)](https://www.ascensiongamedev.com/profile/3-xenogene/) - Sprite Modifications and Many Tilesets
+ * Aesthetic [(aka Aesthetic)](https://www.ascensiongamedev.com/profile/377-aesthetic/) - New UI Design/Graphics (Ref [1](https://www.ascensiongamedev.com/topic/3648-dev-blog-262019-ui-overhaul-live-progress-thread/?do=findComment&comment=35804))
  
 
 ## Licensing

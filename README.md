@@ -57,4 +57,8 @@ We'd love to expand this pack with more assets! Please feel free to contirbute a
 
 
 ## Acknowledgements
-We cannot thank George, PixelFox, Zetasis, Murdoc, Aesthetic, and everyone else who contributed to this pack enoungh. Your hard work made all of this possible! Thanks again!
+We cannot thank George, PixelFox, Zetasis, Murdoc, Aesthetic, and everyone else who contributed to this pack enough. Your hard work made all of this possible! Thanks again!
+
+
+## Want to make your own MMORPG?
+Visit https://www.freemmorpgmaker.com to learn more!

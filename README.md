@@ -18,13 +18,13 @@ All of the assets in this pack are free to use legally in your projects, even co
  * Jon Collier [(aka Zetasis)](https://www.ascensiongamedev.com/profile/13-zetasis/) - Tiles, Characters, Resources, Generator Components, Paperdolls, and More! (Ref: [1](https://www.ascensiongamedev.com/topic/3082-more-agd-graphics-tileset-update/?page=1), [2](https://www.ascensiongamedev.com/topic/3189-intersect-character-generator/))
  * Cordell Carrier [(aka Murdoc)](https://www.ascensiongamedev.com/profile/3-xenogene/) - Sprite Modifications and Many Tilesets
  * Aesthetic [(aka Aesthetic)](https://www.ascensiongamedev.com/profile/377-aesthetic/) - New UI Design/Graphics (Ref [1](https://www.ascensiongamedev.com/topic/3648-dev-blog-262019-ui-overhaul-live-progress-thread/?do=findComment&comment=35804))
- * Joe Williamson [(@JoeCreates)](https://twitter.com/joecreates?lang=en) - Item Icons (Ref [1](https://opengameart.org/content/roguelikerpg-items))
- * 7Soul1 [(7Soul)](https://7soul.itch.io/) - Item & Skill Icons (Ref [1](https://www.deviantart.com/7soul1/art/16x16-RPG-Icons-Pack-1-Free-Sample-467188465))
+ * Joe Williamson [(aka @JoeCreates)](https://twitter.com/joecreates?lang=en) - Item Icons (Ref [1](https://opengameart.org/content/roguelikerpg-items))
+ * 7Soul [(aka 7Soul)](https://7soul.itch.io/) - Item & Skill Icons (Ref [1](https://www.deviantart.com/7soul1/art/16x16-RPG-Icons-Pack-1-Free-Sample-467188465))
 
 ## Licensing
  * All the animations, tilesets, characters, ui elements, items and other assets by George, PixelFox, Zetasis, Aesthetic, and Murdoc are licensed as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
  * Most items were created by Joe Williamson and are licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
- * Other Item Icons & Skill Icons were created by 7Soul1 which were distributed with [his own license](http://www.ascensiongamedev.com/resources/filehost/ad15dcfcc2bc0ab4e080782a65cb0dc8.png).
+ * Other Item Icons & Skill Icons were created by 7Soul which were distributed with [his own license](http://www.ascensiongamedev.com/resources/filehost/ad15dcfcc2bc0ab4e080782a65cb0dc8.png).
  
  **All files have the author(s) and applicable licensing specified in the commit histories, please refer to those for individual file inquiries!**
 

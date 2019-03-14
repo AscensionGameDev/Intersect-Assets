@@ -56,7 +56,7 @@ Generator Examples:
 
 
 ## Contributing
-We'd love to expand this pack with more assets! Please feel free to contirbute assets to this repo via a PR or reaching out to [jcsnider](https://www.ascensiongamedev.com/profile/1-jcsnider/) via AGD.  We have an ongoing wishlist here if you are looking for ideas.
+We'd love to expand this pack with more assets! Please feel free to contirbute assets to this repo via a PR or reaching out to [jcsnider](https://www.ascensiongamedev.com/profile/1-jcsnider/) via AGD.  We have an [ongoing wishlist here](https://github.com/AscensionGameDev/Intersect-Assets/issues/1) if you are looking for ideas.
 
 
 ## Acknowledgements

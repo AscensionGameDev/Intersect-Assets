@@ -4,6 +4,8 @@ A complete collection of sprites, tilesets, animations, interface elements, soun
 
 This pack originated when [George at AGD](https://www.ascensiongamedev.com/profile/20-george/) released his [16x16 game assets](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/). Shortly after, [PixelFox at AGD](https://www.ascensiongamedev.com/profile/264-pixelfox/) released some [sprites, aniamtions, and more](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/) that all fit together extremely well. A short fundraiser was held at AGD and we were able to commission more tiles, characters, and much more from [Zetasis](https://www.ascensiongamedev.com/profile/13-zetasis/) and [Murdoc](https://www.ascensiongamedev.com/profile/3-xenogene/).
 
+We continued by commissioning a UI design from [Aesthetic at AGD](https://www.ascensiongamedev.com/profile/377-aesthetic/) and then proceeded to locate items, animations, sounds, and music with loose licensing restrictions from across the net. 
+
 All of the assets in this pack are free to use legally in your projects, even commercially. Please see the licensing information below for more information.
 
 

@@ -65,3 +65,7 @@ We cannot thank George, PixelFox, Zetasis, Murdoc, Aesthetic, and everyone else 
 
 ## Want to make your own MMORPG?
 Visit https://www.freemmorpgmaker.com to learn more!
+
+
+## Complementary Assets
+This pack doesn't include fogs at this time. (They're on our wishlist!) But [here](https://www.ascensiongamedev.com/topic/3761-found-some-fogs/) is a good set that I found that would work great in non-commercial projects. The original author never specified any sort of license so these will not be included in this pack by default.

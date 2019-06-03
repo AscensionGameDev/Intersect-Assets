@@ -21,6 +21,8 @@ All of the assets in this pack are free to use legally in your projects, even co
  * Joe Williamson [(aka @JoeCreates)](https://twitter.com/joecreates?lang=en) - Item Icons (Ref [1](https://opengameart.org/content/roguelikerpg-items))
  * 7Soul [(aka 7Soul)](https://7soul.itch.io/) - Item & Skill Icons (Ref [1](https://www.deviantart.com/7soul1/art/16x16-RPG-Icons-Pack-1-Free-Sample-467188465))
  * Vincent Garreau [(Github)](https://github.com/VincentGarreau/particles.js/commits?author=VincentGarreau) - For ParticlesJS which we used to texture some of our UI buttons.
+ * artisticdude [(OpenGameArt)](https://opengameart.org/content/rpg-sound-pack) - Various RPG Sound Effects
+ * Kenny [(Kenny.nl)](https://kenney.nl/assets?q=audio) - RPG and UI Sound Effects
  * [FontAwesome](https://fontawesome.com/) - UI Button Icons
  * [Adobe](https://www.adobe.com/) - Source Sans Pro and Source Sans Pro Black Fonts
  * [Octave Sounds](http://raisedbeaches.com/octave/)  - UI Element Sound Effects
@@ -31,6 +33,8 @@ All of the assets in this pack are free to use legally in your projects, even co
  * Other Item Icons & Skill Icons were created by 7Soul which were distributed with [his own license](http://www.ascensiongamedev.com/resources/filehost/ad15dcfcc2bc0ab4e080782a65cb0dc8.png).
  * FontAwesome icons used in the UI are licensed as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
  * UI Sound Effects by [Octave Sounds](http://raisedbeaches.com/octave/) have a [custom license](https://github.com/scopegate/octave/blob/master/LICENSE.md) which permit free commerical and non-commercial use of their sound effects.
+ * RPG Sound Effects by [artisticdude](https://opengameart.org/users/artisticdude) are public domain (CC0).
+ * RPG and UI Sound Effects by [Kenny](https://kenney.nl/assets?q=audio) are licensed CC0 1.0 Universal.
  * Adobe Source Sans Pro Fonts are licensed as [SIL 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/release/LICENSE.md)
  
  **All files have the author(s) and applicable licensing specified in the commit histories, please refer to those for individual file inquiries!**

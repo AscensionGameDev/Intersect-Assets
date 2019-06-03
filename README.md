@@ -10,7 +10,7 @@ All of the assets in this pack are free to use legally in your projects, even co
 
 
 ## Authors
- * [Ascension Game Dev](https://www.ascensiongamedev.com/) - Commissioning parts of, and Compiling this Asset Pack
+ * [Ascension Game Dev](https://www.ascensiongamedev.com/) - Commissioning parts of and compiling this Asset Pack
  * JC Snider [(aka jcsnider)](https://www.ascensiongamedev.com/profile/1-jcsnider/) - Character Generation Software
  * Joe Bridges [(aka Kibbelz)](https://www.ascensiongamedev.com/profile/2-kibbelz/) - Character Generation Software, and Map Previews Below
  * George Bailey [(aka George)](https://www.ascensiongamedev.com/profile/20-george/) - Graphic Style, Original Tilesets, and Items (Ref: [1](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/))

@@ -95,7 +95,7 @@
         "ToolTipTextColor": "",
         "Children": {
           "CreditsLabel": {
-            "Bounds": "0,4,512,570",
+            "Bounds": "16,4,418,570",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

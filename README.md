@@ -26,7 +26,7 @@ All of the assets in this pack are free to use legally in your projects, even co
  * [FontAwesome](https://fontawesome.com/) - UI Button Icons
  * [Adobe](https://www.adobe.com/) - Source Sans Pro and Source Sans Pro Black Fonts
  * [Octave Sounds](http://raisedbeaches.com/octave/)  - UI Element Sound Effects
- * [Eric Mytas](https://soundimage.org) - Music
+ * [Eric Matyas](https://soundimage.org) - Music
 
 ## Licensing
  * All the animations, tilesets, characters, ui elements, items and other assets by George, PixelFox, Zetasis, Aesthetic, and Murdoc are licensed as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
@@ -37,7 +37,7 @@ All of the assets in this pack are free to use legally in your projects, even co
  * RPG Sound Effects by [artisticdude](https://opengameart.org/users/artisticdude) are public domain (CC0).
  * RPG and UI Sound Effects by [Kenney](https://kenney.nl/assets?q=audio) are licensed CC0 1.0 Universal.
  * Adobe Source Sans Pro Fonts are licensed as [SIL 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/release/LICENSE.md)
- * Music is by Eric Mytas - [SoundImage.org](https://soundimage.org) - Licensed [CC BY Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). 
+ * Music is by Eric Matyas - [SoundImage.org](https://soundimage.org) - Licensed [CC BY Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). 
  
  **All files have the author(s) and applicable licensing specified in the commit histories, please refer to those for individual file inquiries!**
 

@@ -18,6 +18,9 @@
   "ToolTipFont": null,
   "ToolTipTextColor": "",
   "Texture": "",
+  "HoverSound": null,
+  "LeftMouseClickSound": null,
+  "RightMouseClickSound": null,
   "Children": {
     "EntityInfoPanel": {
       "Bounds": "0,0,314,126",
@@ -39,9 +42,12 @@
       "ToolTipFont": null,
       "ToolTipTextColor": "",
       "Texture": "entitybox.png",
+      "HoverSound": null,
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "76,7,59,20",
+          "Bounds": "76,7,75,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -179,7 +185,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": null
+          "Texture": null,
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "EventDescLabel": {
           "Bounds": "93,43,207,0",
@@ -220,7 +229,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "emptybar.png"
+          "Texture": "emptybar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "HPBar": {
           "Bounds": "130,45,168,14",
@@ -241,7 +253,34 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "HPBar.png"
+          "Texture": "HPBar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
+        },
+        "ShieldBar": {
+          "Bounds": "130,45,168,14",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": false,
+          "RestrictToParent": false,
+          "MouseInputEnabled": true,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "Texture": "ShieldBar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "HPTitle": {
           "Bounds": "100,43,21,16",
@@ -322,7 +361,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "emptybar.png"
+          "Texture": "emptybar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "MPBar": {
           "Bounds": "130,71,168,14",
@@ -343,7 +385,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "manabar.png"
+          "Texture": "manabar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "MPTitle": {
           "Bounds": "100,69,22,16",
@@ -424,7 +469,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "emptybar.png"
+          "Texture": "emptybar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "EXPBar": {
           "Bounds": "130,97,168,14",
@@ -445,7 +493,10 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "expbar.png"
+          "Texture": "expbar.png",
+          "HoverSound": null,
+          "LeftMouseClickSound": null,
+          "RightMouseClickSound": null
         },
         "EXPTitle": {
           "Bounds": "95,95,27,16",
@@ -642,7 +693,10 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": ""
+      "Texture": "",
+      "HoverSound": null,
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null
     }
   }
 }

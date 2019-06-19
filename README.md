@@ -2,7 +2,7 @@
 # Free 2D Fantasy MMORPG Assets
 A complete collection of sprites, tilesets, animations, interface elements, sounds, music, tools and more for creating free 2d mmorpgs using the Intersect game engine.
 
-This pack originated when [George at AGD](https://www.ascensiongamedev.com/profile/20-george/) released his [16x16 game assets](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/). Shortly after, [PixelFox at AGD](https://www.ascensiongamedev.com/profile/264-pixelfox/) released some [sprites, aniamtions, and more](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/) that all fit together extremely well. A short fundraiser was held at AGD and we were able to commission more tiles, characters, and much more from [Zetasis](https://www.ascensiongamedev.com/profile/13-zetasis/) and [Murdoc](https://www.ascensiongamedev.com/profile/3-xenogene/).
+This pack originated when [George at AGD](https://www.ascensiongamedev.com/profile/20-george/) released his [16x16 game assets](https://www.ascensiongamedev.com/topic/742-16x16-custom-assets/). Shortly after, [PixelFox at AGD](https://www.ascensiongamedev.com/profile/264-pixelfox/) released some [sprites, animations, and more](https://www.ascensiongamedev.com/topic/740-small-fantasy-resources/) that all fit together extremely well. A short fundraiser was held at AGD and we were able to commission more tiles, characters, and much more from [Zetasis](https://www.ascensiongamedev.com/profile/13-zetasis/) and [Murdoc](https://www.ascensiongamedev.com/profile/3-xenogene/).
 
 We continued by commissioning a UI design from [Aesthetic at AGD](https://www.ascensiongamedev.com/profile/377-aesthetic/) and then proceeded to locate items, animations, sounds, and music with loose licensing restrictions from across the net. 
 
@@ -26,6 +26,7 @@ All of the assets in this pack are free to use legally in your projects, even co
  * [FontAwesome](https://fontawesome.com/) - UI Button Icons
  * [Adobe](https://www.adobe.com/) - Source Sans Pro and Source Sans Pro Black Fonts
  * [Octave Sounds](http://raisedbeaches.com/octave/)  - UI Element Sound Effects
+ * [Eric Mytas](https://soundimage.org) - Music
 
 ## Licensing
  * All the animations, tilesets, characters, ui elements, items and other assets by George, PixelFox, Zetasis, Aesthetic, and Murdoc are licensed as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
@@ -36,6 +37,7 @@ All of the assets in this pack are free to use legally in your projects, even co
  * RPG Sound Effects by [artisticdude](https://opengameart.org/users/artisticdude) are public domain (CC0).
  * RPG and UI Sound Effects by [Kenney](https://kenney.nl/assets?q=audio) are licensed CC0 1.0 Universal.
  * Adobe Source Sans Pro Fonts are licensed as [SIL 1.1](https://github.com/adobe-fonts/source-sans-pro/blob/release/LICENSE.md)
+ * Music is by Eric Mytas - [SoundImage.org](https://soundimage.org) - Licensed [CC BY Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). 
  
  **All files have the author(s) and applicable licensing specified in the commit histories, please refer to those for individual file inquiries!**
 

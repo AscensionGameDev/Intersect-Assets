@@ -1,5 +1,5 @@
 {
-  "Bounds": "1134,369,220,339",
+  "Bounds": "1140,369,220,339",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -489,6 +489,7 @@
         "SizeToContents": false,
         "MultiSelect": false,
         "IsToggle": false,
+        "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
         "ItemRightClickSound": "octave-beep-tapped.wav"

@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "76,7,75,20",
+          "Bounds": "76,7,54,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -208,7 +208,8 @@
           "HideToolTip": false,
           "ToolTipBackground": null,
           "ToolTipFont": null,
-          "ToolTipTextColor": ""
+          "ToolTipTextColor": "",
+          "Font": "sourcesansproblack,10"
         },
         "HPBarBackground": {
           "Bounds": "130,44,168,16",

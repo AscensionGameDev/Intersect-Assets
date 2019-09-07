@@ -64,6 +64,10 @@ Generator Examples:
 ### Game UI (WIP)
 ![Login](http://www.ascensiongamedev.com/resources/filehost/8dbc5c158b2721578e7d2392a996871e.png)
 
+![In-Game](https://www.ascensiongamedev.com/resources/filehost/ca3bd643e1d8e5018ec50b877cdc5ae3.png)
+
+![Character Window](https://www.ascensiongamedev.com/resources/filehost/dce0cf4f6fce3866bae953dccf73ab3e.png)
+
 
 ### Animations & More
 

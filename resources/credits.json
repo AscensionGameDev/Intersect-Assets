@@ -265,6 +265,42 @@
       }
     },
     {
+      "Text": "Jack Soda",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Extra Entity Sprites",
+      "Font": "sourcesanspro",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
       "Text": "Joe Williamson (aka @JoeCreates)",
       "Font": "sourcesansproblack",
       "Size": 10,

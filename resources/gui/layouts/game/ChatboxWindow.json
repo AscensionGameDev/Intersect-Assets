@@ -1,5 +1,5 @@
 {
-  "Bounds": "4,534,386,182",
+  "Bounds": "4,582,386,182",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "4,0,0,4",
   "AlignmentTransform": "0,0",
@@ -351,7 +351,7 @@
       "TextScale": 1.0
     },
     "AllTabButton": {
-      "Bounds": "1,0,77,20",
+      "Bounds": "1,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -389,7 +389,7 @@
       "ClickSound": null
     },
     "LocalTabButton": {
-      "Bounds": "78,0,77,20",
+      "Bounds": "65,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -427,7 +427,45 @@
       "ClickSound": null
     },
     "PartyTabButton": {
-      "Bounds": "155,0,77,20",
+      "Bounds": "129,0,64,20",
+      "Padding": "0,0,0,0",
+      "AlignmentEdgeDistances": "0,0,0,0",
+      "AlignmentTransform": "0,0",
+      "Margin": "0,0,0,0",
+      "RenderColor": "255,255,255,255",
+      "Alignments": "",
+      "DrawBackground": true,
+      "MinimumSize": "1,1",
+      "MaximumSize": "4096,4096",
+      "Disabled": false,
+      "Hidden": false,
+      "RestrictToParent": false,
+      "MouseInputEnabled": true,
+      "HideToolTip": false,
+      "ToolTipBackground": null,
+      "ToolTipFont": null,
+      "ToolTipTextColor": "",
+      "TextColor": "255,225,225,225",
+      "HoveredTextColor": "255,225,225,225",
+      "ClickedTextColor": "255,225,225,225",
+      "DisabledTextColor": "255,225,225,225",
+      "TextAlign": "Center",
+      "TextPadding": "3,3,3,3",
+      "AutoSizeToContents": false,
+      "Font": "sourcesansproblack,10",
+      "TextScale": 1.0,
+      "NormalImage": "smalltab.png",
+      "HoveredImage": "smalltab_hovered.png",
+      "ClickedImage": "smalltab_clicked.png",
+      "DisabledImage": "smalltab_disabled.png",
+      "CenterImage": false,
+      "HoverSound": "octave-tap-resonant.wav",
+      "MouseUpSound": null,
+      "MouseDownSound": "octave-tap-warm.wav",
+      "ClickSound": null
+    },
+    "GuildTabButton": {
+      "Bounds": "193,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -465,7 +503,7 @@
       "ClickSound": null
     },
     "GlobalTabButton": {
-      "Bounds": "232,0,77,20",
+      "Bounds": "257,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -503,7 +541,7 @@
       "ClickSound": null
     },
     "SystemTabButton": {
-      "Bounds": "309,0,77,20",
+      "Bounds": "321,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

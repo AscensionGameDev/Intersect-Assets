@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "76,7,54,20",
+          "Bounds": "76,7,10,10",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -209,7 +209,7 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Font": "sourcesansproblack,10"
+          "Font": "sourcesansproblack,8"
         },
         "HPBarBackground": {
           "Bounds": "130,44,168,16",
@@ -260,7 +260,7 @@
           "RightMouseClickSound": null
         },
         "ShieldBar": {
-          "Bounds": "130,45,168,14",
+          "Bounds": "0,0,10,10",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -278,7 +278,7 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "ToolTipTextColor": "",
-          "Texture": "ShieldBar.png",
+          "Texture": null,
           "HoverSound": null,
           "LeftMouseClickSound": null,
           "RightMouseClickSound": null
@@ -560,7 +560,7 @@
           "TextScale": 1.0
         },
         "TradeButton": {
-          "Bounds": "120,96,50,20",
+          "Bounds": "144,96,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -598,7 +598,7 @@
           "ClickSound": ""
         },
         "PartyButton": {
-          "Bounds": "178,96,50,20",
+          "Bounds": "192,96,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -636,7 +636,45 @@
           "ClickSound": ""
         },
         "FriendButton": {
-          "Bounds": "247,96,50,20",
+          "Bounds": "250,96,50,20",
+          "Padding": "3,3,3,3",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "",
+          "DrawBackground": false,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": false,
+          "RestrictToParent": false,
+          "MouseInputEnabled": true,
+          "HideToolTip": false,
+          "ToolTipBackground": "tooltip.png",
+          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipTextColor": "255,255,255,255",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Center",
+          "TextPadding": "3,3,3,3",
+          "AutoSizeToContents": false,
+          "Font": "sourcesansproblack,10",
+          "TextScale": 1.0,
+          "NormalImage": "",
+          "HoveredImage": "",
+          "ClickedImage": "",
+          "DisabledImage": "",
+          "CenterImage": false,
+          "HoverSound": "octave-tap-resonant.wav",
+          "MouseUpSound": "",
+          "MouseDownSound": "octave-tap-warm.wav",
+          "ClickSound": ""
+        },
+        "GuildButton": {
+          "Bounds": "100,96,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

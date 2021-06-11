@@ -5118,7 +5118,7 @@
             "ClickSound": ""
           },
           "ControlOpenGuildLabel": {
-            "Bounds": "14,843,71,16",
+            "Bounds": "8,843,75,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5224,7 +5224,7 @@
             "ClickSound": ""
           },
           "ControlOpenFriendsLabel": {
-            "Bounds": "14,875,84,16",
+            "Bounds": "8,875,84,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5330,7 +5330,7 @@
             "ClickSound": ""
           },
           "ControlOpenSettingsLabel": {
-            "Bounds": "14,907,88,16",
+            "Bounds": "8,907,88,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5436,7 +5436,7 @@
             "ClickSound": ""
           },
           "ControlOpenDebuggerLabel": {
-            "Bounds": "14,939,96,16",
+            "Bounds": "8,939,96,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5542,7 +5542,7 @@
             "ClickSound": ""
           },
           "ControlOpenAdminPanelLabel": {
-            "Bounds": "14,971,115,16",
+            "Bounds": "8,971,115,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5648,7 +5648,7 @@
             "ClickSound": ""
           },
           "ControlToggleGuiLabel": {
-            "Bounds": "14,1003,100,16",
+            "Bounds": "8,1003,100,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

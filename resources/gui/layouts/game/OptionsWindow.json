@@ -4419,8 +4419,8 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenFriendsLabel": {
-            "Bounds": "8,843,84,16",
+          "ControlOpenGuildLabel": {
+            "Bounds": "8,843,75,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -4449,7 +4449,7 @@
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0
           },
-          "ControlOpenFriendsButton1": {
+          "ControlOpenGuildButton1": {
             "Bounds": "181,838,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4487,7 +4487,7 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenFriendsButton2": {
+          "ControlOpenGuildButton2": {
             "Bounds": "309,838,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4525,8 +4525,8 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenSettingsLabel": {
-            "Bounds": "8,875,88,16",
+          "ControlOpenFriendsLabel": {
+            "Bounds": "8,875,84,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -4555,7 +4555,7 @@
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0
           },
-          "ControlOpenSettingsButton1": {
+          "ControlOpenFriendsButton1": {
             "Bounds": "181,870,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4593,7 +4593,7 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenSettingsButton2": {
+          "ControlOpenFriendsButton2": {
             "Bounds": "309,870,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4631,8 +4631,8 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenDebuggerLabel": {
-            "Bounds": "8,907,96,16",
+          "ControlOpenSettingsLabel": {
+            "Bounds": "8,907,88,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -4661,7 +4661,7 @@
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0
           },
-          "ControlOpenDebuggerButton1": {
+          "ControlOpenSettingsButton1": {
             "Bounds": "181,902,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4699,7 +4699,7 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenDebuggerButton2": {
+          "ControlOpenSettingsButton2": {
             "Bounds": "309,902,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4737,8 +4737,8 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenAdminPanelLabel": {
-            "Bounds": "8,939,115,16",
+          "ControlOpenDebuggerLabel": {
+            "Bounds": "8,939,96,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -4767,7 +4767,7 @@
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0
           },
-          "ControlOpenAdminPanelButton1": {
+          "ControlOpenDebuggerButton1": {
             "Bounds": "181,934,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4805,7 +4805,7 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlOpenAdminPanelButton2": {
+          "ControlOpenDebuggerButton2": {
             "Bounds": "309,934,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4843,8 +4843,8 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlToggleGuiLabel": {
-            "Bounds": "8,971,100,16",
+          "ControlOpenAdminPanelLabel": {
+            "Bounds": "8,971,115,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -4873,7 +4873,7 @@
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0
           },
-          "ControlToggleGuiButton1": {
+          "ControlOpenAdminPanelButton1": {
             "Bounds": "181,966,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -4911,8 +4911,114 @@
             "MouseDownSound": "octave-tap-warm.wav",
             "ClickSound": ""
           },
-          "ControlToggleGuiButton2": {
+          "ControlOpenAdminPanelButton2": {
             "Bounds": "309,966,120,28",
+            "Padding": "3,3,3,3",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": false,
+            "RestrictToParent": false,
+            "MouseInputEnabled": true,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "TextColor": "255,255,255,255",
+            "HoveredTextColor": "255,255,255,255",
+            "ClickedTextColor": "255,255,255,255",
+            "DisabledTextColor": "255,255,255,255",
+            "TextAlign": "Center",
+            "TextPadding": "3,3,3,3",
+            "AutoSizeToContents": false,
+            "Font": "sourcesansproblack,10",
+            "TextScale": 1.0,
+            "NormalImage": "control_button.png",
+            "HoveredImage": "control_button_hovered.png",
+            "ClickedImage": "control_button_clicked.png",
+            "DisabledImage": "",
+            "CenterImage": false,
+            "HoverSound": "octave-tap-resonant.wav",
+            "MouseUpSound": "",
+            "MouseDownSound": "octave-tap-warm.wav",
+            "ClickSound": ""
+          },
+          "ControlToggleGuiLabel": {
+            "Bounds": "8,1003,100,16",
+            "Padding": "0,0,0,0",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": false,
+            "RestrictToParent": false,
+            "MouseInputEnabled": false,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "BackgroundTemplate": null,
+            "TextColor": "255,255,255,255",
+            "HoveredTextColor": "",
+            "ClickedTextColor": "",
+            "DisabledTextColor": "255,225,225,225",
+            "TextAlign": "Left, Top",
+            "TextPadding": "0,0,0,0",
+            "AutoSizeToContents": true,
+            "Font": "sourcesansproblack,10",
+            "TextScale": 1.0
+          },
+          "ControlToggleGuiButton1": {
+            "Bounds": "181,998,120,28",
+            "Padding": "3,3,3,3",
+            "AlignmentEdgeDistances": "0,0,0,0",
+            "AlignmentTransform": "0,0",
+            "Margin": "0,0,0,0",
+            "RenderColor": "255,255,255,255",
+            "Alignments": "",
+            "DrawBackground": true,
+            "MinimumSize": "1,1",
+            "MaximumSize": "4096,4096",
+            "Disabled": false,
+            "Hidden": false,
+            "RestrictToParent": false,
+            "MouseInputEnabled": true,
+            "HideToolTip": false,
+            "ToolTipBackground": null,
+            "ToolTipFont": null,
+            "ToolTipTextColor": "",
+            "TextColor": "255,255,255,255",
+            "HoveredTextColor": "255,255,255,255",
+            "ClickedTextColor": "255,255,255,255",
+            "DisabledTextColor": "255,255,255,255",
+            "TextAlign": "Center",
+            "TextPadding": "3,3,3,3",
+            "AutoSizeToContents": false,
+            "Font": "sourcesansproblack,10",
+            "TextScale": 1.0,
+            "NormalImage": "control_button.png",
+            "HoveredImage": "control_button_hovered.png",
+            "ClickedImage": "control_button_clicked.png",
+            "DisabledImage": "",
+            "CenterImage": false,
+            "HoverSound": "octave-tap-resonant.wav",
+            "MouseUpSound": "",
+            "MouseDownSound": "octave-tap-warm.wav",
+            "ClickSound": ""
+          },
+          "ControlToggleGuiButton2": {
+            "Bounds": "309,998,120,28",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

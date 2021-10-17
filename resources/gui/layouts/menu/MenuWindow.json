@@ -1,5 +1,5 @@
 {
-  "Bounds": "454,317,452,213",
+  "Bounds": "174,233,452,213",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -234,7 +234,7 @@
       "MouseDownSound": "octave-beep-tapped.wav",
       "ClickSound": ""
     },
-    "OptionsButton": {
+    "SettingsButton": {
       "Bounds": "182,48,87,154",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",

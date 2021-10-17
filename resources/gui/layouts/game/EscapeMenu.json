@@ -1,5 +1,5 @@
 {
-  "Bounds": "454,317,452,213",
+  "Bounds": "174,233,452,213",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -52,7 +52,7 @@
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
-    "OptionsButton": {
+    "SettingsButton": {
       "Bounds": "7,48,87,154",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",

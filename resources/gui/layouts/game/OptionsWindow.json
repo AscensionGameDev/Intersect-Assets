@@ -1,5 +1,5 @@
 {
-  "Bounds": "454,317,452,213",
+  "Bounds": "457,317,452,213",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -4420,7 +4420,7 @@
             "ClickSound": ""
           },
           "ControlOpenGuildLabel": {
-            "Bounds": "8,843,75,16",
+            "Bounds": "8,843,71,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

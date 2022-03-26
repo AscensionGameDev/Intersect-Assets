@@ -1,5 +1,5 @@
 {
-  "Bounds": "454,317,452,262",
+  "Bounds": "457,317,452,262",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,64",
@@ -112,7 +112,8 @@
             "HideToolTip": false,
             "ToolTipBackground": null,
             "ToolTipFont": null,
-            "ToolTipTextColor": ""
+            "ToolTipTextColor": "",
+            "Font": null
           }
         }
       },

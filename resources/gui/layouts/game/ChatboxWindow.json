@@ -1,5 +1,5 @@
 {
-  "Bounds": "4,714,386,182",
+  "Bounds": "4,582,386,182",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "4,0,0,4",
   "AlignmentTransform": "0,0",
@@ -45,7 +45,7 @@
       "CanScrollV": true,
       "AutoHideBars": false,
       "InnerPanel": {
-        "Bounds": "0,0,10,10",
+        "Bounds": "0,0,367,136",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -58,7 +58,7 @@
         "Disabled": false,
         "Hidden": false,
         "RestrictToParent": false,
-        "MouseInputEnabled": false,
+        "MouseInputEnabled": true,
         "HideToolTip": false,
         "ToolTipBackground": null,
         "ToolTipFont": null,
@@ -189,7 +189,7 @@
         }
       },
       "VerticalScrollBar": {
-        "Bounds": "0,0,15,15",
+        "Bounds": "367,0,15,136",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -199,7 +199,7 @@
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
-        "Disabled": false,
+        "Disabled": true,
         "Hidden": false,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
@@ -209,7 +209,7 @@
         "ToolTipTextColor": "",
         "BackgroundTemplate": "scrollbarbg.png",
         "UpOrLeftButton": {
-          "Bounds": "0,0,100,20",
+          "Bounds": "0,0,15,15",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -247,8 +247,8 @@
           "ClickSound": ""
         },
         "Bar": {
-          "Bounds": "0,0,10,10",
-          "Padding": "0,0,0,0",
+          "Bounds": "0,15,15,106",
+          "Padding": "0,15,0,15",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -274,7 +274,7 @@
           "MouseDownSound": "octave-tap-professional.wav"
         },
         "DownOrRightButton": {
-          "Bounds": "0,0,100,20",
+          "Bounds": "0,121,15,15",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -994,7 +994,7 @@
         "ItemFont": "sourcesansproblack,10"
       },
       "DropDownButton": {
-        "Bounds": "0,0,15,15",
+        "Bounds": "42,0,15,15",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

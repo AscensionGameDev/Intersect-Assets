@@ -1,5 +1,5 @@
 {
-  "Bounds": "579,215,442,469",
+  "Bounds": "462,149,442,469",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "76,7,70,26",
+    "Bounds": "0,0,70,26",
     "Padding": "32,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -119,7 +119,7 @@
     "ClickSound": ""
   },
   "InnerPanel": {
-    "Bounds": "0,0,10,10",
+    "Bounds": "0,32,442,437",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -161,7 +161,7 @@
         "CanScrollV": true,
         "AutoHideBars": false,
         "InnerPanel": {
-          "Bounds": "0,0,10,10",
+          "Bounds": "0,0,427,437",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -315,7 +315,7 @@
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
-          "Disabled": false,
+          "Disabled": true,
           "Hidden": false,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
@@ -363,7 +363,7 @@
             "ClickSound": ""
           },
           "Bar": {
-            "Bounds": "0,0,10,10",
+            "Bounds": "0,5,10,10",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

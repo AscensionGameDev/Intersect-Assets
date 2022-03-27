@@ -260,7 +260,7 @@
           "RightMouseClickSound": null
         },
         "ShieldBar": {
-          "Bounds": "130,45,168,14",
+          "Bounds": "298,45,168,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

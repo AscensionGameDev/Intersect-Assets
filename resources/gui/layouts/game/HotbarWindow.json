@@ -1,5 +1,5 @@
 {
-  "Bounds": "1187,4,409,42",
+  "Bounds": "953,4,409,42",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,4,4,0",
   "AlignmentTransform": "0,0",
@@ -157,7 +157,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel0": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -323,7 +323,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel1": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -489,7 +489,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel2": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -655,7 +655,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel3": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -821,7 +821,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel4": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -987,7 +987,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel5": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1153,7 +1153,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel6": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1319,7 +1319,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel7": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1485,7 +1485,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel8": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1651,7 +1651,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel9": {
-          "Bounds": "24,24,10,11",
+          "Bounds": "29,24,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

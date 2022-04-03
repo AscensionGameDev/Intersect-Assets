@@ -20,7 +20,7 @@
   "ClampMovement": true,
   "ActiveImage": null,
   "InactiveImage": null,
-  "ActiveColor": "",
+  "ActiveColor": "255,220,220,220",
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {

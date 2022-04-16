@@ -824,7 +824,7 @@
               "UncheckedSound": "octave-tap-resonant.wav"
             }
           },
-          "GraphicalUserInterfaceSettings": {
+          "InterfaceSettings": {
             "Bounds": "0,104,243,57",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -852,7 +852,7 @@
             "AutoSizeToContents": false,
             "Font": "sourcesansproblack,10",
             "TextScale": 1.0,
-            "NormalImage": "GraphicalUserInterfaceSettings.png",
+            "NormalImage": "interface_settings.png",
             "HoveredImage": null,
             "ClickedImage": null,
             "DisabledImage": null,
@@ -862,7 +862,7 @@
             "MouseDownSound": null,
             "ClickSound": null
           },
-          "GraphicalUserInterfaceSettingsHelper": {
+          "InterfaceSettingsHelper": {
             "Bounds": "90,103,18,18",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",

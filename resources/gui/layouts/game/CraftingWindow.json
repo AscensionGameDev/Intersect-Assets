@@ -815,7 +815,9 @@
         "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
-        "ItemRightClickSound": null
+        "ItemRightClickSound": null,
+        "TextColor": "255,255,255,255",
+        "TextColorOverride": "255,255,255,255"
       },
       "ProgressBarContainer": {
         "Bounds": "194,431,247,5",

@@ -1,5 +1,5 @@
 {
-  "Bounds": "459,149,442,469",
+  "Bounds": "462,149,442,469",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "IngredientsContainer": {
-        "Bounds": "210,142,215,235",
+        "Bounds": "210,142,215,241",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -550,7 +550,7 @@
         "TextScale": 1.0
       },
       "DestroyMaterialsChanceLabel": {
-        "Bounds": "216,102,159,16",
+        "Bounds": "216,102,191,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -580,7 +580,7 @@
         "TextScale": 1.0
       },
       "CraftingTimeLabel": {
-        "Bounds": "216,62,148,16",
+        "Bounds": "216,62,95,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

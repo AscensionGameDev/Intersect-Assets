@@ -1,0 +1,54 @@
+name: Generate upgrade commit from *_full branch
+
+on:
+  # Triggers the workflow on push to *_full branches
+  push:
+    branches: [ main_full, development_full ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate_upgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Determine target _upgrade branch
+        id: target_branch
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          INTERSECT_TARGET_BRANCH=${GITHUB_REF_NAME/_full/_upgrade}
+          echo "::set-output name=name::$INTERSECT_TARGET_BRANCH"
+
+      - name: Checkout target _upgrade branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: target
+          ref: ${{ steps.target_branch.outputs.name }}
+          token: ${{ secrets.INTERSECTBOT_ACCESS_TOKEN }}
+
+      - name: Checkout branch of the custom action
+        uses: actions/checkout@v3
+        with:
+          path: actions
+          ref: actions
+          token: ${{ secrets.INTERSECTBOT_ACCESS_TOKEN }}
+
+      - name: Checkout modified files from _full branch
+        uses: ./actions/generate-upgrade-commit
+        with:
+          base-revision: b3bfe6d663d6aa3641e98ccde9c5600ef819c95a
+          repo-root: target
+          target-revision: ${{ github.sha }}
+
+      - name: Generate commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          add_options: '-A'
+          commit_message: "bot: automatically generating upgrade commit for ${{ github.sha }}"
+          commit_options: '--no-verify --signoff'
+          commit_user_name: Intersect Bot
+          commit_user_email: bot@ascension.dev
+          repository: target
+          skip_fetch: true

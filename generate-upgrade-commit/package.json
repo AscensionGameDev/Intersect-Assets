@@ -1,0 +1,23 @@
+{
+  "name": "generate-upgrade-commit",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/AscensionGameDev/Intersect-Assets",
+  "author": "AscensionGameDev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.1.0",
+    "simple-git": "^3.14.1"
+  },
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.15.0",
+    "yarn": "1.22.19"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": "16.17.0"
+  }
+}

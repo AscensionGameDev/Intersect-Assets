@@ -1,0 +1,16 @@
+name: 'Generate Upgrade Commit'
+description: 'Generates _upgrade branch commits for Intersect-Assets'
+inputs:
+  base-revision:
+    description: 'The base revision (last commit of the previous version)'
+    required: true
+  repo-root:
+    description: 'The root of the target repository (if there were multiple checkouts, default is the repository root ".")'
+    required: false
+    default: '.'
+  target-revision:
+    description: 'The target revision (latest commit in the _full branch)'
+    require: true
+runs:
+  using: 'node16'
+  main: 'dist/index.js'

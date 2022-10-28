@@ -2103,7 +2103,7 @@
                     "UncheckedSound": "octave-tap-resonant.wav"
                   }
                 },
-                "PartyOverheadHpBarCheckbox": {
+                "PartyMemberOverheadHpBarCheckbox": {
                   "Bounds": "24,264,266,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",

@@ -25,19 +25,7 @@
       }
     },
     {
-      "Text": "Created by JC Snider and Joe Bridges",
-      "Font": "sourcesansproblack",
-      "Size": 8,
-      "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
-    },
-    {
-      "Text": "Copyright 2019 (C) Ascension Game Dev",
+      "Text": "Copyright 2022 (C) Ascension Game Dev",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
@@ -61,7 +49,7 @@
       }
     },
     {
-      "Text": "Developers",
+      "Text": "Authors",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
@@ -109,7 +97,139 @@
       }
     },
     {
-      "Text": "Robert Lodico",
+      "Text": "Robbie Lodico",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Maintainers",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Jocelyn Cobb",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Contributors",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Alex Vild",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "A.I. Robin",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Dog from the Kash Shop",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Fernando Arzola Lagos",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",

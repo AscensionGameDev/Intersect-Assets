@@ -989,8 +989,8 @@
           }
         },
         "BackgroundTemplate": "dropdownbg.png",
-        "ItemTextColor": "255,200,200,200",
-        "ItemHoveredTextColor": "255,240,240,240",
+        "ItemTextColor": "255,112,112,112",
+        "ItemHoveredTextColor": "255,255,255,255",
         "ItemFont": "sourcesansproblack,10"
       },
       "DropDownButton": {

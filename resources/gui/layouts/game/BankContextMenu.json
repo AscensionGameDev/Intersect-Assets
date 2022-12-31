@@ -289,7 +289,7 @@
     }
   },
   "BackgroundTemplate": "contextmenu.png",
-  "ItemTextColor": "255,255,255,255",
-  "ItemHoveredTextColor": "255,128,128,128",
+  "ItemTextColor": "255,112,112,112",
+  "ItemHoveredTextColor": "255,255,255,255",
   "ItemFont": "sourcesansproblack,10"
 }

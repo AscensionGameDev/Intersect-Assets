@@ -990,7 +990,7 @@
             "ClickSound": ""
           }
         },
-        "BackgroundTemplate": "dropdownbg.png",
+        "BackgroundTemplate": "contextmenu.png",
         "ItemTextColor": "255,180,180,180",
         "ItemHoveredTextColor": "255,255,255,255",
         "ItemFont": "sourcesansproblack,10"

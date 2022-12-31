@@ -1,5 +1,5 @@
 {
-  "Bounds": "4,582,386,182",
+  "Bounds": "4,534,386,182",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "4,0,0,4",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "MessageList": {
-      "Bounds": "4,20,382,136",
+      "Bounds": "0,20,386,136",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -43,13 +43,13 @@
       "ToolTipTextColor": "",
       "CanScrollH": false,
       "CanScrollV": true,
-      "AutoHideBars": false,
+      "AutoHideBars": true,
       "InnerPanel": {
-        "Bounds": "0,0,367,136",
-        "Padding": "0,0,0,0",
+        "Bounds": "0,0,366,136",
+        "Padding": "8,8,8,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "5,5,5,5",
+        "Margin": "1,1,1,1",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
         "DrawBackground": true,
@@ -196,7 +196,7 @@
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
-        "DrawBackground": true,
+        "DrawBackground": false,
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": true,
@@ -318,7 +318,9 @@
       "Font": null,
       "ItemHoverSound": null,
       "ItemClickSound": null,
-      "ItemRightClickSound": null
+      "ItemRightClickSound": null,
+      "TextColor": "255,255,255,255",
+      "TextColorOverride": "0,0,0,0"
     },
     "ChatboxTitle": {
       "Bounds": "32,8,34,20",
@@ -351,7 +353,7 @@
       "TextScale": 1.0
     },
     "AllTabButton": {
-      "Bounds": "1,0,64,20",
+      "Bounds": "0,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -369,7 +371,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -389,7 +391,7 @@
       "ClickSound": null
     },
     "LocalTabButton": {
-      "Bounds": "65,0,64,20",
+      "Bounds": "64,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -407,7 +409,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -427,7 +429,7 @@
       "ClickSound": null
     },
     "PartyTabButton": {
-      "Bounds": "129,0,64,20",
+      "Bounds": "128,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -445,7 +447,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -465,7 +467,7 @@
       "ClickSound": null
     },
     "GuildTabButton": {
-      "Bounds": "193,0,64,20",
+      "Bounds": "192,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -483,7 +485,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -503,7 +505,7 @@
       "ClickSound": null
     },
     "GlobalTabButton": {
-      "Bounds": "257,0,64,20",
+      "Bounds": "256,0,64,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -521,7 +523,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -541,7 +543,7 @@
       "ClickSound": null
     },
     "SystemTabButton": {
-      "Bounds": "321,0,64,20",
+      "Bounds": "320,0,66,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -559,7 +561,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "TextColor": "255,225,225,225",
+      "TextColor": "255,140,140,140",
       "HoveredTextColor": "255,225,225,225",
       "ClickedTextColor": "255,225,225,225",
       "DisabledTextColor": "255,225,225,225",
@@ -1033,7 +1035,7 @@
       "Disabled": false,
       "Hidden": false,
       "RestrictToParent": false,
-      "MouseInputEnabled": false,
+      "MouseInputEnabled": true,
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,

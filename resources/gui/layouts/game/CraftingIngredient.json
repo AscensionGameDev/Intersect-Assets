@@ -1,9 +1,9 @@
 {
-  "Bounds": "0,0,34,35",
+  "Bounds": "0,0,34,34",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "4,4,4,4",
+  "Margin": "7,7,7,7",
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,

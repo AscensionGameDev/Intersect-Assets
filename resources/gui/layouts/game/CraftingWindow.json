@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "IngredientsContainer": {
-        "Bounds": "210,142,220,242",
+        "Bounds": "210,143,220,241",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -159,7 +159,7 @@
         "ToolTipTextColor": "",
         "CanScrollH": false,
         "CanScrollV": true,
-        "AutoHideBars": false,
+        "AutoHideBars": true,
         "InnerPanel": {
           "Bounds": "0,0,10,10",
           "Padding": "0,0,0,0",

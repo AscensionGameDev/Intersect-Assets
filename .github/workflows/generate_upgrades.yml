@@ -7,6 +7,14 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      GITHUB_REF_NAME:
+        description: 'Target'
+        required: true
+        default: 'main_full'
+        type: choice
+        options:
+        - main_full
 
 jobs:
   generate_upgrade:

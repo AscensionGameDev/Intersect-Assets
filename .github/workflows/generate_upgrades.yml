@@ -38,7 +38,7 @@ jobs:
       - name: Checkout modified files from _full branch
         uses: ./actions/generate-upgrade-commit
         with:
-          base-revision: b3bfe6d663d6aa3641e98ccde9c5600ef819c95a
+          base-revision: a14d915251570c4bdc2e2b0562130621781becd2
           repo-root: target
           target-revision: ${{ github.sha }}
 

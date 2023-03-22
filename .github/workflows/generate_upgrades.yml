@@ -18,7 +18,7 @@ jobs:
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: |
           INTERSECT_TARGET_BRANCH=${GITHUB_REF_NAME/_full/_upgrade}
-          echo "::set-output name=name::$INTERSECT_TARGET_BRANCH"
+          echo "name=$INTERSECT_TARGET_BRANCH" >> $GITHUB_OUTPUT
 
       - name: Checkout target _upgrade branch
         uses: actions/checkout@v3

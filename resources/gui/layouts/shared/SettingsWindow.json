@@ -9432,7 +9432,7 @@
             "ClickSound": ""
           },
           "ControlToggleFullscreenLabel": {
-            "Bounds": "14,1195,107,16",
+            "Bounds": "14,1195,108,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

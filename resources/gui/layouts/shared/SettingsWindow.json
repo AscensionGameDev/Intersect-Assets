@@ -1,5 +1,5 @@
 {
-  "Bounds": "734,467,452,226",
+  "Bounds": "734,467,460,230",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "SettingsHeader": {
-      "Bounds": "14,3,671,40",
+      "Bounds": "0,0,460,40",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,13 +47,13 @@
       "ClickedTextColor": "",
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left",
-      "TextPadding": "25,9,0,0",
+      "TextPadding": "40,12,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
     "SettingsApplyBtn": {
-      "Bounds": "342,189,96,35",
+      "Bounds": "342,192,96,35",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "50,0,0,0",
       "AlignmentTransform": "0,0",
@@ -91,7 +91,7 @@
       "ClickSound": ""
     },
     "SettingsCancelBtn": {
-      "Bounds": "238,189,96,35",
+      "Bounds": "238,192,96,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -129,7 +129,7 @@
       "ClickSound": ""
     },
     "GameSettingsTab": {
-      "Bounds": "3,36,112,23",
+      "Bounds": "2,36,116,23",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -167,7 +167,7 @@
       "ClickSound": null
     },
     "GameSettingsContainer": {
-      "Bounds": "4,60,446,126",
+      "Bounds": "4,60,454,130",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -209,7 +209,7 @@
         "ToolTipTextColor": "",
         "Children": {
           "GameSettingsList": {
-            "Bounds": "0,0,140,125",
+            "Bounds": "0,0,128,128",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -509,7 +509,7 @@
             "TextColorOverride": "255,255,255,255"
           },
           "InterfaceSettings": {
-            "Bounds": "146,0,300,126",
+            "Bounds": "134,0,320,128",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -551,7 +551,7 @@
               "ToolTipTextColor": "",
               "Children": {
                 "AutoCloseWindowsCheckbox": {
-                  "Bounds": "24,4,266,22",
+                  "Bounds": "-10,4,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -570,7 +570,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -600,7 +600,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -641,7 +641,7 @@
                   }
                 },
                 "AutoToggleChatLogCheckbox": {
-                  "Bounds": "24,30,266,22",
+                  "Bounds": "-10,30,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -660,7 +660,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -690,7 +690,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -731,7 +731,7 @@
                   }
                 },
                 "ShowExperienceAsPercentageCheckbox": {
-                  "Bounds": "24,108,266,22",
+                  "Bounds": "-10,108,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -750,7 +750,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -780,7 +780,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -821,7 +821,7 @@
                   }
                 },
                 "ShowHealthAsPercentageCheckbox": {
-                  "Bounds": "24,56,266,22",
+                  "Bounds": "-10,56,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -840,7 +840,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -870,7 +870,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -911,7 +911,7 @@
                   }
                 },
                 "ShowManaAsPercentageCheckbox": {
-                  "Bounds": "24,82,266,22",
+                  "Bounds": "-10,82,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -930,7 +930,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -960,7 +960,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1001,7 +1001,7 @@
                   }
                 },
                 "TypewriterCheckbox": {
-                  "Bounds": "24,134,266,22",
+                  "Bounds": "-10,134,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1020,7 +1020,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1050,7 +1050,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1342,7 +1342,7 @@
             }
           },
           "InformationSettings": {
-            "Bounds": "146,0,300,126",
+            "Bounds": "134,0,320,128",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1384,7 +1384,7 @@
               "ToolTipTextColor": "",
               "Children": {
                 "FriendOverheadInfoCheckbox": {
-                  "Bounds": "24,4,266,22",
+                  "Bounds": "-10,4,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1403,7 +1403,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1433,7 +1433,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1474,7 +1474,7 @@
                   }
                 },
                 "GuildMemberOverheadInfoCheckbox": {
-                  "Bounds": "24,30,266,22",
+                  "Bounds": "-10,30,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1493,7 +1493,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1523,7 +1523,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1564,7 +1564,7 @@
                   }
                 },
                 "MyOverheadInfoCheckbox": {
-                  "Bounds": "24,56,266,22",
+                  "Bounds": "-10,56,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1583,7 +1583,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1613,7 +1613,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1654,7 +1654,7 @@
                   }
                 },
                 "NpcOverheadInfoCheckbox": {
-                  "Bounds": "24,82,266,22",
+                  "Bounds": "-10,82,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1673,7 +1673,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1703,7 +1703,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1744,7 +1744,7 @@
                   }
                 },
                 "PartyMemberOverheadInfoCheckbox": {
-                  "Bounds": "24,108,266,22",
+                  "Bounds": "-10,108,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1763,7 +1763,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1793,7 +1793,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1834,7 +1834,7 @@
                   }
                 },
                 "PlayerOverheadInfoCheckbox": {
-                  "Bounds": "24,134,266,22",
+                  "Bounds": "-10,134,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1853,7 +1853,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1883,7 +1883,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1924,7 +1924,7 @@
                   }
                 },
                 "FriendOverheadHpBarCheckbox": {
-                  "Bounds": "24,160,266,22",
+                  "Bounds": "-10,160,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -1943,7 +1943,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -1973,7 +1973,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2014,7 +2014,7 @@
                   }
                 },
                 "GuildMemberOverheadHpBarCheckbox": {
-                  "Bounds": "24,186,266,22",
+                  "Bounds": "-10,186,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2033,7 +2033,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2063,7 +2063,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2104,7 +2104,7 @@
                   }
                 },
                 "MyOverheadHpBarCheckbox": {
-                  "Bounds": "24,212,266,22",
+                  "Bounds": "-10,212,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2123,7 +2123,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2153,7 +2153,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2194,7 +2194,7 @@
                   }
                 },
                 "NpcOverheadHpBarCheckbox": {
-                  "Bounds": "24,238,266,22",
+                  "Bounds": "-10,238,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2213,7 +2213,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2243,7 +2243,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2284,7 +2284,7 @@
                   }
                 },
                 "PartyMemberOverheadHpBarCheckbox": {
-                  "Bounds": "24,264,266,22",
+                  "Bounds": "-10,264,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2303,7 +2303,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2333,7 +2333,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2374,7 +2374,7 @@
                   }
                 },
                 "PlayerOverheadHpBarCheckbox": {
-                  "Bounds": "24,290,266,22",
+                  "Bounds": "-10,290,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2393,7 +2393,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2423,7 +2423,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2715,7 +2715,7 @@
             }
           },
           "TargetingSettings": {
-            "Bounds": "146,0,300,126",
+            "Bounds": "134,0,320,128",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -2757,7 +2757,7 @@
               "ToolTipTextColor": "",
               "Children": {
                 "StickyTargetCheckbox": {
-                  "Bounds": "24,4,266,22",
+                  "Bounds": "-10,4,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2776,7 +2776,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2806,7 +2806,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2847,7 +2847,7 @@
                   }
                 },
                 "AutoTurnToTargetCheckbox": {
-                  "Bounds": "24,30,266,22",
+                  "Bounds": "-10,30,320,22",
                   "Padding": "0,0,0,0",
                   "AlignmentEdgeDistances": "0,0,0,0",
                   "AlignmentTransform": "-10,0",
@@ -2866,7 +2866,7 @@
                   "ToolTipFont": null,
                   "ToolTipTextColor": "",
                   "Label": {
-                    "Bounds": "0,6,224,22",
+                    "Bounds": "0,6,272,22",
                     "Padding": "0,0,0,0",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -2896,7 +2896,7 @@
                     "TextScale": 1.0
                   },
                   "Checkbox": {
-                    "Bounds": "232,0,22,22",
+                    "Bounds": "286,0,22,22",
                     "Padding": "3,3,3,3",
                     "AlignmentEdgeDistances": "0,0,0,0",
                     "AlignmentTransform": "0,0",
@@ -3439,7 +3439,7 @@
       }
     },
     "VideoSettingsTab": {
-      "Bounds": "115,36,112,23",
+      "Bounds": "117,36,116,23",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -3477,7 +3477,7 @@
       "ClickSound": null
     },
     "VideoSettingsContainer": {
-      "Bounds": "4,60,446,126",
+      "Bounds": "4,60,454,130",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -4937,7 +4937,7 @@
       }
     },
     "AudioSettingsTab": {
-      "Bounds": "227,36,112,23",
+      "Bounds": "229,36,116,23",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -4975,7 +4975,7 @@
       "ClickSound": null
     },
     "AudioSettingsContainer": {
-      "Bounds": "4,60,446,126",
+      "Bounds": "4,60,454,130",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -5430,7 +5430,7 @@
       }
     },
     "KeybindingSettingsTab": {
-      "Bounds": "339,36,110,23",
+      "Bounds": "341,36,116,23",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -5468,7 +5468,7 @@
       "ClickSound": null
     },
     "KeybindingSettingsContainer": {
-      "Bounds": "4,60,446,126",
+      "Bounds": "4,60,454,130",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -6358,7 +6358,7 @@
             "ClickSound": ""
           },
           "ControlEnterLabel": {
-            "Bounds": "14,267,36,16",
+            "Bounds": "14,267,32,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -9789,7 +9789,7 @@
       }
     },
     "KeybindingsRestoreBtn": {
-      "Bounds": "14,192,120,28",
+      "Bounds": "14,195,110,28",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -9813,7 +9813,7 @@
       "DisabledTextColor": "255,255,255,255",
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
-      "AutoSizeToContents": false,
+      "AutoSizeToContents": true,
       "Font": "sourcesansproblack,10",
       "TextScale": 1.0,
       "NormalImage": "control_button.png",

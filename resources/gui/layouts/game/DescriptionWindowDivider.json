@@ -17,7 +17,7 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "ToolTipTextColor": "",
-  "Texture": "itemdescriptiondivider.png",
+  "Texture": "description_divider.png",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null

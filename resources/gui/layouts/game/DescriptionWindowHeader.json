@@ -17,13 +17,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "ToolTipTextColor": "",
-  "Texture": "itemdescription.png",
+  "Texture": "description_header.png",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
     "IconContainer": {
-      "Bounds": "3,3,34,34",
+      "Bounds": "6,6,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -41,7 +41,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "itemdescriptionheadericon.png",
+      "Texture": "description_headericon.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
@@ -73,7 +73,7 @@
       }
     },
     "Title": {
-      "Bounds": "40,0,1,20",
+      "Bounds": "46,0,1,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -103,7 +103,7 @@
       "TextScale": 1.0
     },
     "Subtitle": {
-      "Bounds": "40,16,1,16",
+      "Bounds": "46,16,1,16",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -133,7 +133,7 @@
       "TextScale": 1.0
     },
     "Description": {
-      "Bounds": "40,29,1,16",
+      "Bounds": "46,29,1,16",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

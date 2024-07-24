@@ -1,5 +1,5 @@
 {
-  "Bounds": "953,4,409,42",
+  "Bounds": "953,4,404,44",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,4,4,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "HotbarContainer0": {
-      "Bounds": "8,4,34,35",
+      "Bounds": "4,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -68,36 +68,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon0": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel0": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel0": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -126,8 +100,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel0": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel0": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel0": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -157,7 +161,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel0": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -189,7 +193,7 @@
       }
     },
     "HotbarContainer1": {
-      "Bounds": "48,4,34,35",
+      "Bounds": "44,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -234,36 +238,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon1": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel1": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel1": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -292,8 +270,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel1": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel1": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel1": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -323,7 +331,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel1": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -355,7 +363,7 @@
       }
     },
     "HotbarContainer2": {
-      "Bounds": "88,4,34,35",
+      "Bounds": "84,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -400,36 +408,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon2": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel2": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel2": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -458,8 +440,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel2": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel2": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel2": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -489,7 +501,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel2": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -521,7 +533,7 @@
       }
     },
     "HotbarContainer3": {
-      "Bounds": "128,4,34,35",
+      "Bounds": "124,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -566,36 +578,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon3": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel3": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel3": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -624,8 +610,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel3": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel3": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel3": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -655,7 +671,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel3": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -687,7 +703,7 @@
       }
     },
     "HotbarContainer4": {
-      "Bounds": "168,4,34,35",
+      "Bounds": "164,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -732,36 +748,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon4": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel4": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel4": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -790,8 +780,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel4": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel4": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel4": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -821,7 +841,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel4": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -853,7 +873,7 @@
       }
     },
     "HotbarContainer5": {
-      "Bounds": "208,4,34,35",
+      "Bounds": "204,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -898,36 +918,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon5": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel5": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel5": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -956,8 +950,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel5": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel5": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel5": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -987,7 +1011,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel5": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1019,7 +1043,7 @@
       }
     },
     "HotbarContainer6": {
-      "Bounds": "248,4,34,35",
+      "Bounds": "244,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1064,36 +1088,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon6": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel6": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel6": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1122,8 +1120,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel6": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel6": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel6": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1153,7 +1181,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel6": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1185,7 +1213,7 @@
       }
     },
     "HotbarContainer7": {
-      "Bounds": "288,4,34,35",
+      "Bounds": "284,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1230,36 +1258,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon7": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel7": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel7": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1288,8 +1290,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel7": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel7": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel7": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1319,7 +1351,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel7": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1351,7 +1383,7 @@
       }
     },
     "HotbarContainer8": {
-      "Bounds": "328,4,34,35",
+      "Bounds": "324,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1396,36 +1428,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon8": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel8": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel8": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1454,8 +1460,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel8": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel8": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel8": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1485,7 +1521,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel8": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1517,7 +1553,7 @@
       }
     },
     "HotbarContainer9": {
-      "Bounds": "368,4,34,35",
+      "Bounds": "364,4,36,36",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1562,36 +1598,10 @@
           "Texture": "",
           "HoverSound": "octave-tap-resonant.wav",
           "LeftMouseClickSound": "octave-tap-warm.wav",
-          "RightMouseClickSound": "octave-beep-tapped.wav",
-          "Children": {
-            "HotbarEquipedIcon9": {
-              "Bounds": "26,2,2,2",
-              "Padding": "0,0,0,0",
-              "AlignmentEdgeDistances": "0,0,0,0",
-              "AlignmentTransform": "0,0",
-              "Margin": "0,0,0,0",
-              "RenderColor": "0,255,0,0",
-              "Alignments": "",
-              "DrawBackground": true,
-              "MinimumSize": "1,1",
-              "MaximumSize": "4096,4096",
-              "Disabled": false,
-              "Hidden": false,
-              "RestrictToParent": false,
-              "MouseInputEnabled": false,
-              "HideToolTip": false,
-              "ToolTipBackground": null,
-              "ToolTipFont": null,
-              "ToolTipTextColor": "",
-              "Texture": "",
-              "HoverSound": null,
-              "LeftMouseClickSound": null,
-              "RightMouseClickSound": null
-            }
-          }
+          "RightMouseClickSound": "octave-beep-tapped.wav"
         },
-        "HotbarEquippedLabel9": {
-          "Bounds": "24,0,10,11",
+        "_equipLabel9": {
+          "Bounds": "26,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1620,8 +1630,38 @@
           "Font": "sourcesansproblack,8",
           "TextScale": 1.0
         },
-        "HotbarCooldownLabel9": {
-          "Bounds": "14,12,5,11",
+        "_quantityLabel9": {
+          "Bounds": "31,0,5,11",
+          "Padding": "0,0,0,0",
+          "AlignmentEdgeDistances": "0,0,0,0",
+          "AlignmentTransform": "0,0",
+          "Margin": "0,0,0,0",
+          "RenderColor": "255,255,255,255",
+          "Alignments": "Right,Top",
+          "DrawBackground": true,
+          "MinimumSize": "1,1",
+          "MaximumSize": "4096,4096",
+          "Disabled": false,
+          "Hidden": true,
+          "RestrictToParent": false,
+          "MouseInputEnabled": false,
+          "HideToolTip": false,
+          "ToolTipBackground": null,
+          "ToolTipFont": null,
+          "ToolTipTextColor": "",
+          "BackgroundTemplate": "equipped.png",
+          "TextColor": "255,255,255,255",
+          "HoveredTextColor": "",
+          "ClickedTextColor": "",
+          "DisabledTextColor": "255,90,90,90",
+          "TextAlign": "Left, Top",
+          "TextPadding": "2,-2,2,-1",
+          "AutoSizeToContents": true,
+          "Font": "sourcesansproblack,8",
+          "TextScale": 1.0
+        },
+        "_cooldownLabel9": {
+          "Bounds": "15,12,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1651,7 +1691,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel9": {
-          "Bounds": "29,24,5,11",
+          "Bounds": "31,25,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

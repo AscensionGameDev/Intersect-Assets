@@ -16,8 +16,9 @@
   "HideToolTip": false,
   "ToolTipBackground": null,
   "ToolTipFont": null,
-  "ToolTipTextColor": "",
+  "TooltipTextColor": null,
   "Texture": "logo.png",
+  "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null

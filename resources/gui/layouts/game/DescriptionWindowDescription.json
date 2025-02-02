@@ -16,8 +16,9 @@
   "HideToolTip": false,
   "ToolTipBackground": null,
   "ToolTipFont": null,
-  "ToolTipTextColor": "",
+  "TooltipTextColor": null,
   "Texture": "description.png",
+  "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
@@ -40,7 +41,7 @@
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,
-      "ToolTipTextColor": "",
+      "TooltipTextColor": null,
       "Font": "sourcesansproblack,10"
     }
   }

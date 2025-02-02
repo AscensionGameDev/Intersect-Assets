@@ -5,1116 +5,651 @@
       "Font": "sourcesansproblack",
       "Size": 16,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "www.freemmorpgmaker.com",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Copyright 2022 (C) Ascension Game Dev",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Authors",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "JC Snider",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Joe Bridges",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Robbie Lodico",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Maintainers",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Jocelyn Cobb",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Contributors",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Alex Vild",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "A.I. Robin",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Dog from the Kash Shop",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Fernando Arzola Lagos",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Graphics",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "7Soul",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Item & Skill Icons",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Cordell Carrier (aka Murdoc)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Tilesets and Sprite Modifications",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "George Bailey (aka George)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Graphic Style, Original Tilesets, and Items",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Joe Williamson (aka @JoeCreates)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Item Icons",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Jon Collier (aka Zetasis)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Tiles, Characters, Resources, Generator Components, Paperdolls, UI Icons, and so much more!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "PixelFox",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Animations, Characters, Monsters, Paperdolls, and Tiles",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "User Interface",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Aesthetic",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Original UI Design",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "FontAwesome",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "UI Icons",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Vincent Garreau (particles.js)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Button Textures",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Sound Effects",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "artisticdude",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Various RPG Sound Effects",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Kenney",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "RPG and UI Sound Effects",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Octave Sounds",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "UI Sound Effects",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Music",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Eric Matyas",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "SoundImage.org",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Fonts",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Adobe",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Source Sans Pro and Source Sans Pro Black",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Special Thanks",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Nightmare",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Acting as an incredible testing environment, and helping us conquer engine limitations!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Internal Testing Team(s)",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Khaikaa, Zetasis, Niko, Raku, Mcadams, BiGG, Ainz Ooal Gown, davidsaid06, dxxknight, and hiroman!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Zetasis",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "The amount of miscellaneous graphics he created for us on a whim, free of charge, and throughout all hours of the night is insane. Thanks Zeta!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Robin Perris",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "DarkUI library and various development consultations.",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "MonoGame Framework",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Engine rendering, input handling, audio playback systems, and more!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Ascension Game Dev Community",
       "Font": "sourcesansproblack",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "Moral support, financial support, alpha/beta testing, and so much more!",
       "Font": "sourcesanspro",
       "Size": 10,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     },
     {
       "Text": "",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
-      "Clr": {
-        "A": 255,
-        "R": 255,
-        "G": 255,
-        "B": 255
-      }
+      "TextColor": null
     }
   ]
 }

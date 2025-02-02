@@ -1,11 +1,11 @@
 {
-  "Bounds": "0,0,210,46",
+  "Bounds": "0,744,200,24",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "",
+  "Alignments": "Left,Bottom",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -17,20 +17,20 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "description.png",
+  "Texture": "statusbg.png",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
-    "Description": {
-      "Bounds": "0,0,210,46",
+    "ServerStatusLabel": {
+      "Bounds": "0,4,200,16",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
       "Margin": "0,0,0,0",
       "RenderColor": "255,255,255,255",
-      "Alignments": "",
+      "Alignments": "Center",
       "DrawBackground": true,
       "MinimumSize": "1,1",
       "MaximumSize": "4096,4096",
@@ -42,7 +42,16 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Font": "sourcesansproblack,10"
+      "BackgroundTemplate": null,
+      "TextColor": "255,220,220,220",
+      "HoveredTextColor": "",
+      "ClickedTextColor": "",
+      "DisabledTextColor": "255,220,220,220",
+      "TextAlign": "Center",
+      "TextPadding": "0,2,0,0",
+      "AutoSizeToContents": false,
+      "Font": "sourcesansproblack,10",
+      "TextScale": 1.0
     }
   }
 }

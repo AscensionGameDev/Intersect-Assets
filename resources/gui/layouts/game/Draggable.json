@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,210,5",
+  "Bounds": "860,853,32,32",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -17,7 +17,7 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "description_divider.png",
+  "Texture": "",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,

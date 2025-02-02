@@ -1,9 +1,9 @@
 {
-  "Bounds": "0,0,36,36",
-  "Padding": "2,2,2,2",
+  "Bounds": "0,0,34,35",
+  "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "4,1,4,1",
+  "Margin": "4,4,4,4",
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,
@@ -17,20 +17,20 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "status.png",
+  "Texture": "Inventoryitem.png",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
-    "StatusIcon": {
+    "MapItemIcon": {
       "Bounds": "1,1,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
       "Margin": "0,0,0,0",
       "RenderColor": "255,255,255,255",
-      "Alignments": "",
+      "Alignments": "Center",
       "DrawBackground": true,
       "MinimumSize": "1,1",
       "MaximumSize": "4096,4096",
@@ -44,12 +44,12 @@
       "TooltipTextColor": null,
       "Texture": "",
       "TextureNinePatchMargin": null,
-      "HoverSound": null,
-      "LeftMouseClickSound": null,
-      "RightMouseClickSound": null
+      "HoverSound": "octave-tap-resonant.wav",
+      "LeftMouseClickSound": "octave-tap-warm.wav",
+      "RightMouseClickSound": "octave-beep-tapped.wav"
     },
-    "DurationLabel": {
-      "Bounds": "30,25,4,11",
+    "MapItemValue": {
+      "Bounds": "30,24,4,11",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

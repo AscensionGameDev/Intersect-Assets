@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,210,46",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "KeyValueRow": {
       "Bounds": "0,0,210,16",
+      "Dock": "None",
       "Padding": "0,0,5,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -50,6 +52,7 @@
       "Children": {
         "Key": {
           "Bounds": "2,0,1,16",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -69,8 +72,8 @@
           "TooltipTextColor": null,
           "BackgroundTemplate": null,
           "TextColor": "255,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",
@@ -80,6 +83,7 @@
         },
         "Value": {
           "Bounds": "150,0,1,16",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -99,8 +103,8 @@
           "TooltipTextColor": null,
           "BackgroundTemplate": null,
           "TextColor": "255,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
           "TextPadding": "0,0,0,0",

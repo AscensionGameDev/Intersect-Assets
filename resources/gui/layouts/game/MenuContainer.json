@@ -1,5 +1,6 @@
 {
   "Bounds": "1033,722,332,44",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,4,4",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "InventoryContainer": {
       "Bounds": "8,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -50,6 +52,7 @@
       "Children": {
         "InventoryButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -65,11 +68,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,225,225,225",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -80,16 +83,17 @@
           "HoveredImage": "inventoryicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "SpellsContainer": {
       "Bounds": "48,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -115,6 +119,7 @@
       "Children": {
         "SpellsButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -130,11 +135,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -145,16 +150,17 @@
           "HoveredImage": "spellicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "CharacterContainer": {
       "Bounds": "88,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -180,6 +186,7 @@
       "Children": {
         "CharacterButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -195,11 +202,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -210,16 +217,17 @@
           "HoveredImage": "charactericon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "QuestsContainer": {
       "Bounds": "128,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -245,6 +253,7 @@
       "Children": {
         "QuestsButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -260,11 +269,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -275,16 +284,17 @@
           "HoveredImage": "questsicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "FriendsContainer": {
       "Bounds": "168,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -310,6 +320,7 @@
       "Children": {
         "FriendsButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -325,11 +336,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -340,16 +351,17 @@
           "HoveredImage": "friendsicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "PartyContainer": {
       "Bounds": "248,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -375,6 +387,7 @@
       "Children": {
         "PartyButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -390,11 +403,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -405,16 +418,17 @@
           "HoveredImage": "partyicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "GuildContainer": {
       "Bounds": "208,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -440,6 +454,7 @@
       "Children": {
         "GuildButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -455,11 +470,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -470,16 +485,17 @@
           "HoveredImage": "guildicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "MenuContainer": {
       "Bounds": "288,4,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -505,6 +521,7 @@
       "Children": {
         "MenuButton": {
           "Bounds": "2,2,32,32",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -520,11 +537,11 @@
           "MouseInputEnabled": true,
           "HideToolTip": false,
           "ToolTipBackground": "tooltip.png",
-          "ToolTipFont": "sourcesansproblack,10",
+          "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "255,82,82,82",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -535,11 +552,11 @@
           "HoveredImage": "menuicon_hovered.png",
           "ClickedImage": null,
           "DisabledImage": null,
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     }

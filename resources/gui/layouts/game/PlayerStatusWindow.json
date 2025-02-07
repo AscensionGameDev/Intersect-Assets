@@ -1,5 +1,6 @@
 {
   "Bounds": "4,130,289,44",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "PlayerStatusControl": {
       "Bounds": "0,2,289,42",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -42,31 +44,11 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "CanScrollH": false,
-      "CanScrollV": true,
-      "AutoHideBars": true,
-      "InnerPanel": {
-        "Bounds": "0,0,10,10",
-        "Padding": "0,0,0,0",
-        "AlignmentEdgeDistances": "0,0,0,0",
-        "AlignmentTransform": "0,0",
-        "Margin": "0,0,0,0",
-        "RenderColor": "255,255,255,255",
-        "Alignments": "",
-        "DrawBackground": true,
-        "MinimumSize": "1,1",
-        "MaximumSize": "4096,4096",
-        "Disabled": false,
-        "Hidden": false,
-        "RestrictToParent": false,
-        "MouseInputEnabled": true,
-        "HideToolTip": false,
-        "ToolTipBackground": null,
-        "ToolTipFont": null,
-        "TooltipTextColor": null
-      },
+      "OverflowX": "Hidden",
+      "OverflowY": "Auto",
       "HorizontalScrollBar": {
         "Bounds": "0,0,15,15",
+        "Dock": "Bottom",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -87,6 +69,7 @@
         "BackgroundTemplate": null,
         "UpOrLeftButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -105,8 +88,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "255,82,82,82",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -117,14 +100,15 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "CenterImage": false,
           "HoverSound": null,
           "MouseUpSound": null,
           "MouseDownSound": null,
-          "ClickSound": null
+          "ClickSound": null,
+          "CenterImage": false
         },
         "Bar": {
           "Bounds": "0,0,10,10",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -152,6 +136,7 @@
         },
         "DownOrRightButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -170,8 +155,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "255,82,82,82",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -182,15 +167,16 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "CenterImage": false,
           "HoverSound": null,
           "MouseUpSound": null,
           "MouseDownSound": null,
-          "ClickSound": null
+          "ClickSound": null,
+          "CenterImage": false
         }
       },
       "VerticalScrollBar": {
         "Bounds": "0,0,15,15",
+        "Dock": "Right",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -211,6 +197,7 @@
         "BackgroundTemplate": null,
         "UpOrLeftButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -229,8 +216,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "255,82,82,82",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -241,14 +228,15 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "CenterImage": false,
           "HoverSound": null,
           "MouseUpSound": null,
           "MouseDownSound": null,
-          "ClickSound": null
+          "ClickSound": null,
+          "CenterImage": false
         },
         "Bar": {
           "Bounds": "0,0,10,10",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -276,6 +264,7 @@
         },
         "DownOrRightButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -294,8 +283,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "255,82,82,82",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -306,11 +295,11 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "CenterImage": false,
           "HoverSound": null,
           "MouseUpSound": null,
           "MouseDownSound": null,
-          "ClickSound": null
+          "ClickSound": null,
+          "CenterImage": false
         }
       }
     }

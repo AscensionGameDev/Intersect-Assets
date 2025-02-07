@@ -1,5 +1,6 @@
 {
   "Bounds": "1142,50,220,154",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,50,4,0",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "Title": {
       "Bounds": "40,6,33,20",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -44,8 +46,8 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,255,255,255",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left, CenterV",
       "TextPadding": "0,0,0,0",
@@ -55,6 +57,7 @@
     },
     "ItemsContainer": {
       "Bounds": "1,28,218,90",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -72,31 +75,11 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "CanScrollH": false,
-      "CanScrollV": true,
-      "AutoHideBars": false,
-      "InnerPanel": {
-        "Bounds": "0,0,10,10",
-        "Padding": "0,0,0,0",
-        "AlignmentEdgeDistances": "0,0,0,0",
-        "AlignmentTransform": "0,0",
-        "Margin": "5,5,5,5",
-        "RenderColor": "255,255,255,255",
-        "Alignments": "",
-        "DrawBackground": true,
-        "MinimumSize": "1,1",
-        "MaximumSize": "4096,4096",
-        "Disabled": false,
-        "Hidden": false,
-        "RestrictToParent": false,
-        "MouseInputEnabled": false,
-        "HideToolTip": false,
-        "ToolTipBackground": null,
-        "ToolTipFont": null,
-        "TooltipTextColor": null
-      },
+      "OverflowX": "Hidden",
+      "OverflowY": "Auto",
       "HorizontalScrollBar": {
         "Bounds": "0,0,15,15",
+        "Dock": "Bottom",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -117,6 +100,7 @@
         "BackgroundTemplate": null,
         "UpOrLeftButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -135,8 +119,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -147,14 +131,15 @@
           "HoveredImage": "",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         },
         "Bar": {
           "Bounds": "0,0,10,10",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -182,6 +167,7 @@
         },
         "DownOrRightButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -200,8 +186,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -212,15 +198,16 @@
           "HoveredImage": "",
           "ClickedImage": "",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       },
       "VerticalScrollBar": {
         "Bounds": "0,0,15,15",
+        "Dock": "Right",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -241,6 +228,7 @@
         "BackgroundTemplate": "scrollbarbg.png",
         "UpOrLeftButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -259,8 +247,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -271,14 +259,15 @@
           "HoveredImage": "uparrowhover.png",
           "ClickedImage": "uparrowclicked.png",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         },
         "Bar": {
           "Bounds": "0,0,10,10",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -306,6 +295,7 @@
         },
         "DownOrRightButton": {
           "Bounds": "0,0,100,20",
+          "Dock": "None",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -324,8 +314,8 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "TextColor": "0,255,255,255",
-          "HoveredTextColor": "",
-          "ClickedTextColor": "",
+          "HoveredTextColor": null,
+          "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "TextPadding": "3,3,3,3",
@@ -336,16 +326,17 @@
           "HoveredImage": "downarrowhover.png",
           "ClickedImage": "downarrowclicked.png",
           "DisabledImage": "",
-          "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
           "MouseUpSound": "",
           "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": ""
+          "ClickSound": "",
+          "CenterImage": false
         }
       }
     },
     "LootAllButton": {
       "Bounds": "4,122,212,28",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -376,11 +367,11 @@
       "HoveredImage": "control_button_hovered.png",
       "ClickedImage": "control_button_clicked.png",
       "DisabledImage": "",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-tap-warm.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     }
   }
 }

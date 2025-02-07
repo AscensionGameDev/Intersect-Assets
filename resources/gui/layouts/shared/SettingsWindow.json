@@ -111,14 +111,14 @@
         "TextScale": 1.0
       },
       "CloseButton": {
-        "Bounds": "0,0,24,24",
+        "Bounds": "0,16,24,24",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "Top,Right",
+        "Alignments": "Bottom,Right",
         "DrawBackground": true,
         "MinimumSize": "0,0",
         "MaximumSize": "0,0",

@@ -212,14 +212,14 @@
       "CenterImage": false
     },
     "CloseButton": {
-      "Bounds": "365,59,87,154",
+      "Bounds": "358,48,87,154",
       "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
       "Margin": "0,0,0,0",
       "RenderColor": "255,255,255,255",
-      "Alignments": "Bottom,Right",
+      "Alignments": "",
       "DrawBackground": true,
       "MinimumSize": "1,1",
       "MaximumSize": "4096,4096",

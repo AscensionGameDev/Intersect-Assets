@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,10,10",
+  "Dock": "None",
   "Padding": "2,6,2,2",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",

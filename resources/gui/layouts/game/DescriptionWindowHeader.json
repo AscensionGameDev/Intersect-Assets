@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,210,46",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "IconContainer": {
       "Bounds": "6,6,36,36",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -50,6 +52,7 @@
       "Children": {
         "Icon": {
           "Bounds": "0,0,10,10",
+          "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -77,6 +80,7 @@
     },
     "Title": {
       "Bounds": "46,0,1,20",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -96,8 +100,8 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,255,255,255",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left, Top",
       "TextPadding": "0,0,0,0",
@@ -107,6 +111,7 @@
     },
     "Subtitle": {
       "Bounds": "46,16,1,16",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -126,8 +131,8 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,255,255,255",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left, Top",
       "TextPadding": "0,0,0,0",
@@ -137,6 +142,7 @@
     },
     "Description": {
       "Bounds": "46,29,1,16",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -156,8 +162,8 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,255,255,255",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left, Top",
       "TextPadding": "0,0,0,0",

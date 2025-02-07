@@ -1,5 +1,6 @@
 {
   "Bounds": "457,317,452,213",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -24,7 +25,8 @@
   "RightMouseClickSound": null,
   "Children": {
     "TitleLabel": {
-      "Bounds": "0,0,512,393",
+      "Bounds": "0,0,452,40",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -44,17 +46,18 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": null,
       "TextColor": "255,225,225,225",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left",
-      "TextPadding": "25,8,0,0",
+      "TextPadding": "33,8,8,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
     "SettingsButton": {
       "Bounds": "7,48,87,154",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -85,14 +88,15 @@
       "HoveredImage": "ingame_settings_hovered.png",
       "ClickedImage": "ingame_settings_clicked.png",
       "DisabledImage": "ingame_settings_disabled.png",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-tap-warm.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     },
     "CharacterSelectButton": {
       "Bounds": "94,48,87,154",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -123,14 +127,15 @@
       "HoveredImage": "ingame_charselect_hovered.png",
       "ClickedImage": "ingame_charselect_clicked.png",
       "DisabledImage": "ingame_charselect_disabled.png",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-tap-warm.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     },
     "LogoutButton": {
       "Bounds": "182,48,87,154",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -161,14 +166,15 @@
       "HoveredImage": "ingame_logout_hovered.png",
       "ClickedImage": "ingame_logout_clicked.png",
       "DisabledImage": "ingame_logout_disabled.png",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-tap-warm.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     },
     "ExitToDesktopButton": {
       "Bounds": "270,48,87,154",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -199,14 +205,15 @@
       "HoveredImage": "ingame_exitdesktop_hovered.png",
       "ClickedImage": "ingame_exitdesktop_clicked.png",
       "DisabledImage": "ingame_exitdesktop_disabled.png",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-beep-tapped.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     },
     "CloseButton": {
       "Bounds": "358,48,87,154",
+      "Dock": "None",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -237,11 +244,11 @@
       "HoveredImage": "ingame_closemenu_hovered.png",
       "ClickedImage": "ingame_closemenu_clicked.png",
       "DisabledImage": "ingame_closemenu_disabled.png",
-      "CenterImage": false,
       "HoverSound": "octave-tap-resonant.wav",
       "MouseUpSound": "",
       "MouseDownSound": "octave-beep-tapped.wav",
-      "ClickSound": ""
+      "ClickSound": "",
+      "CenterImage": false
     }
   }
 }

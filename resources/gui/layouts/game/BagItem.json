@@ -18,13 +18,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "bankitem.png",
+  "Texture": "bagitem.png",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
-    "BankItemIcon": {
+    "BagItemIcon": {
       "Bounds": "1,1,32,32",
       "Dock": "None",
       "Padding": "0,0,0,0",
@@ -50,7 +50,7 @@
       "LeftMouseClickSound": "octave-tap-warm.wav",
       "RightMouseClickSound": "octave-beep-tapped.wav"
     },
-    "BankItemValue": {
+    "BagItemValue": {
       "Bounds": "30,24,4,11",
       "Dock": "None",
       "Padding": "0,0,0,0",

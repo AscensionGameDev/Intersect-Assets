@@ -87,7 +87,7 @@
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "Top,Right",
+    "Alignments": "Bottom,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "40,40",

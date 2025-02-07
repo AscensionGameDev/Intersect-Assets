@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,34,35",
+  "Bounds": "391,13,34,35",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -18,13 +18,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "bankitem.png",
+  "Texture": "craftitem.png",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
-    "BankItemIcon": {
+    "CraftedItemIcon": {
       "Bounds": "1,1,32,32",
       "Dock": "None",
       "Padding": "0,0,0,0",
@@ -47,10 +47,10 @@
       "Texture": "",
       "TextureNinePatchMargin": null,
       "HoverSound": "octave-tap-resonant.wav",
-      "LeftMouseClickSound": "octave-tap-warm.wav",
-      "RightMouseClickSound": "octave-beep-tapped.wav"
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null
     },
-    "BankItemValue": {
+    "CraftedItemQuantity": {
       "Bounds": "30,24,4,11",
       "Dock": "None",
       "Padding": "0,0,0,0",

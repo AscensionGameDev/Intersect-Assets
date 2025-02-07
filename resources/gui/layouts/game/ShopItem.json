@@ -18,13 +18,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "bankitem.png",
+  "Texture": "shopitem.png",
   "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
-    "BankItemIcon": {
+    "ShopItemIcon": {
       "Bounds": "1,1,32,32",
       "Dock": "None",
       "Padding": "0,0,0,0",
@@ -47,39 +47,8 @@
       "Texture": "",
       "TextureNinePatchMargin": null,
       "HoverSound": "octave-tap-resonant.wav",
-      "LeftMouseClickSound": "octave-tap-warm.wav",
-      "RightMouseClickSound": "octave-beep-tapped.wav"
-    },
-    "BankItemValue": {
-      "Bounds": "30,24,4,11",
-      "Dock": "None",
-      "Padding": "0,0,0,0",
-      "AlignmentEdgeDistances": "0,0,0,0",
-      "AlignmentTransform": "0,0",
-      "Margin": "0,0,0,0",
-      "RenderColor": "255,255,255,255",
-      "Alignments": "Bottom,Right",
-      "DrawBackground": true,
-      "MinimumSize": "1,1",
-      "MaximumSize": "4096,4096",
-      "Disabled": false,
-      "Hidden": false,
-      "RestrictToParent": false,
-      "MouseInputEnabled": false,
-      "HideToolTip": false,
-      "ToolTipBackground": null,
-      "ToolTipFont": null,
-      "TooltipTextColor": null,
-      "BackgroundTemplate": "quantity.png",
-      "TextColor": "255,255,255,255",
-      "HoveredTextColor": null,
-      "ClickedTextColor": null,
-      "DisabledTextColor": "255,90,90,90",
-      "TextAlign": "Left, Top",
-      "TextPadding": "2,-2,2,-1",
-      "AutoSizeToContents": true,
-      "Font": "sourcesansproblack,8",
-      "TextScale": 1.0
+      "LeftMouseClickSound": null,
+      "RightMouseClickSound": null
     }
   }
 }

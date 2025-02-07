@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,451,202",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,40,0,0",
   "AlignmentTransform": "0,0",
@@ -26,6 +27,7 @@
   "IsClosable": false,
   "Titlebar": {
     "Bounds": "0,0,451,36",
+    "Dock": "Top",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -53,6 +55,7 @@
     "Children": {
       "WindowIcon": {
         "Bounds": "4,0,24,24",
+        "Dock": "Left",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -78,6 +81,7 @@
       },
       "Title": {
         "Bounds": "32,0,108,36",
+        "Dock": "CenterV, Fill",
         "Padding": "8,4,8,4",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -97,8 +101,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,82,82,82",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Bottom",
         "TextPadding": "8,4,8,4",
@@ -107,13 +111,14 @@
         "TextScale": 1.0
       },
       "CloseButton": {
-        "Bounds": "32,0,-44,24",
+        "Bounds": "451,12,0,24",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "",
+        "Alignments": "Bottom,Right",
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "0,0",
@@ -126,8 +131,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,82,82,82",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "3,3,3,3",
@@ -138,16 +143,17 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": null,
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       }
     }
   },
   "InnerPanel": {
-    "Bounds": "6,24,-12,-30",
+    "Bounds": "6,24,0,0",
+    "Dock": "Fill",
     "Padding": "8,8,8,8",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -168,6 +174,7 @@
     "Children": {
       "_buttonCredits": {
         "Bounds": "269,4,87,154",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -186,8 +193,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,8,0,0",
@@ -198,14 +205,15 @@
         "HoveredImage": "mainmenu_buttonCredits_hovered.png",
         "ClickedImage": "mainmenu_buttonCredits_clicked.png",
         "DisabledImage": "mainmenu_buttonCredits_disabled.png",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       },
       "_buttonExit": {
         "Bounds": "356,4,87,154",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -224,8 +232,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,8,0,0",
@@ -236,14 +244,15 @@
         "HoveredImage": "mainmenu_buttonExit_hovered.png",
         "ClickedImage": "mainmenu_buttonExit_clicked.png",
         "DisabledImage": "mainmenu_buttonExit_disabled.png",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       },
       "_buttonLogin": {
         "Bounds": "8,4,87,154",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -262,8 +271,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,8,0,0",
@@ -274,14 +283,15 @@
         "HoveredImage": "mainmenu_buttonLogin_hovered.png",
         "ClickedImage": "mainmenu_buttonLogin_clicked.png",
         "DisabledImage": "mainmenu_buttonLogin_disabled.png",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       },
       "_buttonRegister": {
         "Bounds": "95,4,87,154",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -300,8 +310,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,8,0,0",
@@ -312,14 +322,15 @@
         "HoveredImage": "mainmenu_buttonRegister_hovered.png",
         "ClickedImage": "mainmenu_buttonRegister_clicked.png",
         "DisabledImage": "mainmenu_buttonRegister_disabled.png",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       },
       "_buttonSettings": {
         "Bounds": "182,4,87,154",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -338,8 +349,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,8,0,0",
@@ -350,14 +361,15 @@
         "HoveredImage": "mainmenu_buttonSettings_hovered.png",
         "ClickedImage": "mainmenu_buttonSettings_clicked.png",
         "DisabledImage": "mainmenu_buttonSettings_disabled.png",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       },
       "_buttonStart": {
         "Bounds": "0,0,100,20",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -376,8 +388,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,82,82,82",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "3,3,3,3",
@@ -388,11 +400,11 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": null,
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       }
     }
   }

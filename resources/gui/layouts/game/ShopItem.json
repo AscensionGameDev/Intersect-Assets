@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,34,35",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -16,14 +17,16 @@
   "HideToolTip": false,
   "ToolTipBackground": null,
   "ToolTipFont": null,
-  "ToolTipTextColor": "",
+  "TooltipTextColor": null,
   "Texture": "shopitem.png",
+  "TextureNinePatchMargin": null,
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
     "ShopItemIcon": {
       "Bounds": "1,1,32,32",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -40,8 +43,9 @@
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,
-      "ToolTipTextColor": "",
+      "TooltipTextColor": null,
       "Texture": "",
+      "TextureNinePatchMargin": null,
       "HoverSound": "octave-tap-resonant.wav",
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null

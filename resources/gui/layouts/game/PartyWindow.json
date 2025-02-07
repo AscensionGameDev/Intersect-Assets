@@ -1,5 +1,6 @@
 {
   "Bounds": "1140,370,220,338",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -26,6 +27,7 @@
   "IsClosable": true,
   "Titlebar": {
     "Bounds": "0,0,220,29",
+    "Dock": "Top",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -52,11 +54,12 @@
     "MouseDownSound": "",
     "Children": {
       "WindowIcon": {
-        "Bounds": "0,0,24,24",
+        "Bounds": "4,4,24,24",
+        "Dock": "Left",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "4,4,4,4",
+        "Margin": "4,4,0,4",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
         "DrawBackground": true,
@@ -78,10 +81,11 @@
       },
       "Title": {
         "Bounds": "0,0,0,20",
+        "Dock": "CenterV, Fill",
         "Padding": "4,4,4,4",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "0,0,0,0",
+        "Margin": "34,0,0,0",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
         "DrawBackground": true,
@@ -97,8 +101,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,0,0,0",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Bottom",
         "TextPadding": "0,0,0,0",
@@ -108,12 +112,13 @@
       },
       "CloseButton": {
         "Bounds": "196,0,24,24",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "Top,Right",
+        "Alignments": "Bottom,Right",
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "0,0",
@@ -126,8 +131,8 @@
         "ToolTipFont": null,
         "TooltipTextColor": null,
         "TextColor": "255,82,82,82",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "3,3,3,3",
@@ -138,16 +143,17 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": null,
         "MouseUpSound": null,
         "MouseDownSound": null,
-        "ClickSound": null
+        "ClickSound": null,
+        "CenterImage": false
       }
     }
   },
   "InnerPanel": {
     "Bounds": "0,0,10,10",
+    "Dock": "Fill",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -168,6 +174,7 @@
     "Children": {
       "LeaderIcon": {
         "Bounds": "148,4,34,34",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -193,6 +200,7 @@
       },
       "LeaderText": {
         "Bounds": "42,5,168,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -212,8 +220,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Right, Top",
         "TextPadding": "0,0,0,0",
@@ -223,6 +231,7 @@
       },
       "MemberName0": {
         "Bounds": "10,5,1,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -242,8 +251,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -253,6 +262,7 @@
       },
       "HealthBarContainer0": {
         "Bounds": "42,25,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -278,6 +288,7 @@
         "Children": {
           "HealthBar0": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -305,6 +316,7 @@
       },
       "HealthLabel0": {
         "Bounds": "10,23,21,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -324,8 +336,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -335,6 +347,7 @@
       },
       "HealthValue0": {
         "Bounds": "42,23,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -354,8 +367,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -365,6 +378,7 @@
       },
       "ManaBarContainer0": {
         "Bounds": "42,45,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -390,6 +404,7 @@
         "Children": {
           "ManaBar0": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -417,6 +432,7 @@
       },
       "ManaLabel0": {
         "Bounds": "10,45,22,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -436,8 +452,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -447,6 +463,7 @@
       },
       "ManaValue0": {
         "Bounds": "42,45,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -466,8 +483,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -477,6 +494,7 @@
       },
       "MemberName1": {
         "Bounds": "10,71,1,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -496,8 +514,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -507,6 +525,7 @@
       },
       "HealthBarContainer1": {
         "Bounds": "42,91,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -532,6 +551,7 @@
         "Children": {
           "HealthBar1": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -559,6 +579,7 @@
       },
       "HealthLabel1": {
         "Bounds": "10,89,21,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -578,8 +599,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -589,6 +610,7 @@
       },
       "HealthValue1": {
         "Bounds": "42,89,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -608,8 +630,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -619,6 +641,7 @@
       },
       "ManaBarContainer1": {
         "Bounds": "42,111,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -644,6 +667,7 @@
         "Children": {
           "ManaBar1": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -671,6 +695,7 @@
       },
       "ManaLabel1": {
         "Bounds": "10,109,22,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -690,8 +715,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -701,6 +726,7 @@
       },
       "ManaValue1": {
         "Bounds": "42,109,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -720,8 +746,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -731,6 +757,7 @@
       },
       "KickButton1": {
         "Bounds": "180,71,30,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -761,14 +788,15 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": "",
         "MouseDownSound": "octave-tap-warm.wav",
-        "ClickSound": ""
+        "ClickSound": "",
+        "CenterImage": false
       },
       "MemberName2": {
         "Bounds": "10,137,1,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -788,8 +816,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -799,6 +827,7 @@
       },
       "HealthBarContainer2": {
         "Bounds": "42,157,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -824,6 +853,7 @@
         "Children": {
           "HealthBar2": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -851,6 +881,7 @@
       },
       "HealthLabel2": {
         "Bounds": "10,155,21,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -870,8 +901,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -881,6 +912,7 @@
       },
       "HealthValue2": {
         "Bounds": "42,155,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -900,8 +932,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -911,6 +943,7 @@
       },
       "ManaBarContainer2": {
         "Bounds": "42,177,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -936,6 +969,7 @@
         "Children": {
           "ManaBar2": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -963,6 +997,7 @@
       },
       "ManaLabel2": {
         "Bounds": "10,175,22,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -982,8 +1017,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -993,6 +1028,7 @@
       },
       "ManaValue2": {
         "Bounds": "42,175,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1012,8 +1048,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -1023,6 +1059,7 @@
       },
       "KickButton2": {
         "Bounds": "180,137,30,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1053,14 +1090,15 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": "",
         "MouseDownSound": "octave-tap-warm.wav",
-        "ClickSound": ""
+        "ClickSound": "",
+        "CenterImage": false
       },
       "MemberName3": {
         "Bounds": "10,203,1,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1080,8 +1118,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -1091,6 +1129,7 @@
       },
       "HealthBarContainer3": {
         "Bounds": "42,223,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1116,6 +1155,7 @@
         "Children": {
           "HealthBar3": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1143,6 +1183,7 @@
       },
       "HealthLabel3": {
         "Bounds": "10,221,21,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1162,8 +1203,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -1173,6 +1214,7 @@
       },
       "HealthValue3": {
         "Bounds": "42,221,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1192,8 +1234,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -1203,6 +1245,7 @@
       },
       "ManaBarContainer3": {
         "Bounds": "42,243,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1228,6 +1271,7 @@
         "Children": {
           "ManaBar3": {
             "Bounds": "0,0,168,14",
+            "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1255,6 +1299,7 @@
       },
       "ManaLabel3": {
         "Bounds": "10,241,22,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1274,8 +1319,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "TextPadding": "0,0,0,0",
@@ -1285,6 +1330,7 @@
       },
       "ManaValue3": {
         "Bounds": "42,241,168,14",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1304,8 +1350,8 @@
         "TooltipTextColor": null,
         "BackgroundTemplate": null,
         "TextColor": "255,255,255,255",
-        "HoveredTextColor": "",
-        "ClickedTextColor": "",
+        "HoveredTextColor": null,
+        "ClickedTextColor": null,
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "TextPadding": "0,0,0,0",
@@ -1315,6 +1361,7 @@
       },
       "KickButton3": {
         "Bounds": "180,203,30,16",
+        "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1345,14 +1392,15 @@
         "HoveredImage": null,
         "ClickedImage": null,
         "DisabledImage": null,
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": "",
         "MouseDownSound": "octave-tap-warm.wav",
-        "ClickSound": ""
+        "ClickSound": "",
+        "CenterImage": false
       },
       "LeavePartyButton": {
         "Bounds": "50,270,120,28",
+        "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1383,11 +1431,11 @@
         "HoveredImage": "control_button_hovered.png",
         "ClickedImage": "control_button_clicked.png",
         "DisabledImage": "",
-        "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",
         "MouseUpSound": "",
         "MouseDownSound": "octave-tap-warm.wav",
-        "ClickSound": ""
+        "ClickSound": "",
+        "CenterImage": false
       }
     }
   }

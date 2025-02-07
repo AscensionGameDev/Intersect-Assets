@@ -1,5 +1,6 @@
 {
   "Bounds": "0,0,34,35",
+  "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -25,6 +26,7 @@
   "Children": {
     "MapItemIcon": {
       "Bounds": "1,1,32,32",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -50,6 +52,7 @@
     },
     "MapItemValue": {
       "Bounds": "30,24,4,11",
+      "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -69,8 +72,8 @@
       "TooltipTextColor": null,
       "BackgroundTemplate": "quantity.png",
       "TextColor": "255,255,255,255",
-      "HoveredTextColor": "",
-      "ClickedTextColor": "",
+      "HoveredTextColor": null,
+      "ClickedTextColor": null,
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left, Top",
       "TextPadding": "2,-2,2,-1",

@@ -76,7 +76,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -107,7 +106,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -138,7 +136,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -169,7 +166,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Right, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,12",
           "TextScale": 1.0
@@ -201,7 +197,7 @@
           "RightMouseClickSound": null
         },
         "EventDescLabel": {
-          "Bounds": "93,43,180,0",
+          "Bounds": "93,43,0,0",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -326,7 +322,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -357,7 +352,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -440,7 +434,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -471,7 +464,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -554,7 +546,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -585,7 +576,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -615,7 +605,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -623,10 +612,11 @@
           "HoveredImage": "downarrowhover.png",
           "ClickedImage": "downarrowclicked.png",
           "DisabledImage": null,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null,
-          "ClickSound": null,
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -701,7 +691,7 @@
             "TooltipTextColor": null,
             "BackgroundTemplate": null,
             "UpOrLeftButton": {
-              "Bounds": "0,0,100,20",
+              "Bounds": "0,0,15,15",
               "Dock": "None",
               "Padding": "0,0,0,0",
               "AlignmentEdgeDistances": "0,0,0,0",
@@ -725,7 +715,6 @@
               "ClickedTextColor": null,
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
-              "TextPadding": "3,3,3,3",
               "AutoSizeToContents": false,
               "Font": null,
               "TextScale": 1.0,
@@ -733,10 +722,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null,
-              "ClickSound": null,
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              },
               "CenterImage": false
             },
             "Bar": {
@@ -768,7 +758,7 @@
               "MouseDownSound": null
             },
             "DownOrRightButton": {
-              "Bounds": "0,0,100,20",
+              "Bounds": "0,0,15,15",
               "Dock": "None",
               "Padding": "0,0,0,0",
               "AlignmentEdgeDistances": "0,0,0,0",
@@ -792,7 +782,6 @@
               "ClickedTextColor": null,
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
-              "TextPadding": "3,3,3,3",
               "AutoSizeToContents": false,
               "Font": null,
               "TextScale": 1.0,
@@ -800,10 +789,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null,
-              "ClickSound": null,
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              },
               "CenterImage": false
             }
           },
@@ -829,7 +819,7 @@
             "TooltipTextColor": null,
             "BackgroundTemplate": null,
             "UpOrLeftButton": {
-              "Bounds": "0,0,100,20",
+              "Bounds": "0,0,15,15",
               "Dock": "None",
               "Padding": "0,0,0,0",
               "AlignmentEdgeDistances": "0,0,0,0",
@@ -853,7 +843,6 @@
               "ClickedTextColor": null,
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
-              "TextPadding": "3,3,3,3",
               "AutoSizeToContents": false,
               "Font": null,
               "TextScale": 1.0,
@@ -861,10 +850,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null,
-              "ClickSound": null,
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              },
               "CenterImage": false
             },
             "Bar": {
@@ -896,7 +886,7 @@
               "MouseDownSound": null
             },
             "DownOrRightButton": {
-              "Bounds": "0,0,100,20",
+              "Bounds": "0,0,15,15",
               "Dock": "None",
               "Padding": "0,0,0,0",
               "AlignmentEdgeDistances": "0,0,0,0",
@@ -920,7 +910,6 @@
               "ClickedTextColor": null,
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
-              "TextPadding": "3,3,3,3",
               "AutoSizeToContents": false,
               "Font": null,
               "TextScale": 1.0,
@@ -928,10 +917,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null,
-              "ClickSound": null,
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              },
               "CenterImage": false
             }
           }

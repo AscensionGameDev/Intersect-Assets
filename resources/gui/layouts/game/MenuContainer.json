@@ -75,7 +75,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,225,225,225",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -83,10 +82,11 @@
           "HoveredImage": "inventoryicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -142,7 +142,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -150,10 +149,11 @@
           "HoveredImage": "spellicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -209,7 +209,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -217,10 +216,11 @@
           "HoveredImage": "charactericon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -276,7 +276,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -284,10 +283,11 @@
           "HoveredImage": "questsicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -343,7 +343,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -351,10 +350,11 @@
           "HoveredImage": "friendsicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -410,7 +410,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -418,10 +417,11 @@
           "HoveredImage": "partyicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -477,7 +477,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -485,10 +484,11 @@
           "HoveredImage": "guildicon_hovered.png",
           "ClickedImage": "",
           "DisabledImage": "",
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }
@@ -544,7 +544,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
-          "TextPadding": "3,3,3,3",
           "AutoSizeToContents": false,
           "Font": null,
           "TextScale": 1.0,
@@ -552,10 +551,11 @@
           "HoveredImage": "menuicon_hovered.png",
           "ClickedImage": null,
           "DisabledImage": null,
-          "HoverSound": "octave-tap-resonant.wav",
-          "MouseUpSound": "",
-          "MouseDownSound": "octave-tap-warm.wav",
-          "ClickSound": "",
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          },
           "CenterImage": false
         }
       }

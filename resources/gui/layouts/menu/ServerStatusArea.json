@@ -50,7 +50,6 @@
       "ClickedTextColor": null,
       "DisabledTextColor": "255,220,220,220",
       "TextAlign": "Center",
-      "TextPadding": "0,2,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,10",
       "TextScale": 1.0

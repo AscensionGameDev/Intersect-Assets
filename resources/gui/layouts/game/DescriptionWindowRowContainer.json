@@ -76,7 +76,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0
@@ -107,7 +106,6 @@
           "ClickedTextColor": null,
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
-          "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0

@@ -25,7 +25,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "Description": {
-      "Bounds": "0,0,210,46",
+      "Bounds": "0,0,0,0",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",

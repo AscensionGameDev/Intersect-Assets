@@ -99,7 +99,7 @@
       "TextColor": null
     },
     {
-      "Text": "Contributors",
+      "Text": "Collaborators",
       "Font": "sourcesansproblack",
       "Size": 14,
       "Alignment": "center",
@@ -120,7 +120,84 @@
       "TextColor": null
     },
     {
-      "Text": "A.I. Robin",
+      "Text": "Fernando Arzola Lagos",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Weylon Santana",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Contributors",
+      "Font": "sourcesansproblack",
+      "Size": 14,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "AIRobin (airobinnet, alloin)",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "AisenGaming",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "BabyLoves",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "blinkuz",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "celojevic",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "char32",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "DerekGooding",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "dhmello",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
@@ -134,7 +211,56 @@
       "TextColor": null
     },
     {
-      "Text": "Fernando Arzola Lagos",
+      "Text": "dudevelopement",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "jburditt",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "lucas-tardivo",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Magehernan",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Mighty-Professional",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Orinorii",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "Shenmue (RedBandana)",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
+      "Text": "TimtyG",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",

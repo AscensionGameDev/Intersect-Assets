@@ -134,6 +134,13 @@
       "TextColor": null
     },
     {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "TextColor": null
+    },
+    {
       "Text": "Contributors",
       "Font": "sourcesansproblack",
       "Size": 14,

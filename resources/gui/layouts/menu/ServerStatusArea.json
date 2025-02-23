@@ -51,7 +51,8 @@
       "DisabledTextColor": "255,220,220,220",
       "TextAlign": "Center",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "FontName": "sourcesansproblack",
+      "FontSize": 10,
       "TextScale": 1.0
     }
   }

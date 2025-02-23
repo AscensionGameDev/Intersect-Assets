@@ -77,7 +77,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
@@ -107,7 +108,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
@@ -137,7 +139,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "EntityMapLabel": {
@@ -167,7 +170,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Right, Top",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "EntityGraphicContainer": {
@@ -323,7 +327,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "HPLabel": {
@@ -353,7 +358,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "MPBackground": {
@@ -435,7 +441,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "MPLabel": {
@@ -465,7 +472,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "EXPBackground": {
@@ -547,7 +555,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "EXPLabel": {
@@ -577,7 +586,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "ContextMenuButton": {
@@ -606,7 +616,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": null,
+          "FontName": null,
+          "FontSize": null,
           "TextScale": 1.0,
           "NormalImage": "downarrownormal.png",
           "HoveredImage": "downarrowhover.png",
@@ -716,7 +727,8 @@
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
               "AutoSizeToContents": false,
-              "Font": null,
+              "FontName": null,
+              "FontSize": null,
               "TextScale": 1.0,
               "NormalImage": null,
               "HoveredImage": null,
@@ -783,7 +795,8 @@
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
               "AutoSizeToContents": false,
-              "Font": null,
+              "FontName": null,
+              "FontSize": null,
               "TextScale": 1.0,
               "NormalImage": null,
               "HoveredImage": null,
@@ -844,7 +857,8 @@
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
               "AutoSizeToContents": false,
-              "Font": null,
+              "FontName": null,
+              "FontSize": null,
               "TextScale": 1.0,
               "NormalImage": null,
               "HoveredImage": null,
@@ -911,7 +925,8 @@
               "DisabledTextColor": "255,90,90,90",
               "TextAlign": "Center",
               "AutoSizeToContents": false,
-              "Font": null,
+              "FontName": null,
+              "FontSize": null,
               "TextScale": 1.0,
               "NormalImage": null,
               "HoveredImage": null,

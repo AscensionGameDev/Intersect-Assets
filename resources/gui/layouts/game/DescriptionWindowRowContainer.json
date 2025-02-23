@@ -77,7 +77,8 @@
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         },
         "Value": {
@@ -107,7 +108,8 @@
           "DisabledTextColor": "255,255,255,255",
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,10",
+          "FontName": "sourcesansproblack",
+          "FontSize": 10,
           "TextScale": 1.0
         }
       }

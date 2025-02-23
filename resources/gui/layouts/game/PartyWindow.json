@@ -99,7 +99,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Right, Top",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "MemberName0": {
@@ -129,7 +130,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthBarContainer0": {
@@ -213,7 +215,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthValue0": {
@@ -243,7 +246,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaBarContainer0": {
@@ -327,7 +331,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaValue0": {
@@ -357,7 +362,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "MemberName1": {
@@ -387,7 +393,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthBarContainer1": {
@@ -471,7 +478,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthValue1": {
@@ -501,7 +509,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaBarContainer1": {
@@ -585,7 +594,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaValue1": {
@@ -615,7 +625,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "KickButton1": {
@@ -644,7 +655,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Right, Top",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0,
         "NormalImage": null,
         "HoveredImage": null,
@@ -684,7 +696,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthBarContainer2": {
@@ -768,7 +781,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthValue2": {
@@ -798,7 +812,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaBarContainer2": {
@@ -882,7 +897,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaValue2": {
@@ -912,7 +928,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "KickButton2": {
@@ -941,7 +958,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Right, Top",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0,
         "NormalImage": null,
         "HoveredImage": null,
@@ -981,7 +999,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthBarContainer3": {
@@ -1065,7 +1084,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "HealthValue3": {
@@ -1095,7 +1115,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaBarContainer3": {
@@ -1179,7 +1200,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ManaValue3": {
@@ -1209,7 +1231,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "KickButton3": {
@@ -1238,7 +1261,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Right, Top",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0,
         "NormalImage": null,
         "HoveredImage": null,
@@ -1277,7 +1301,8 @@
         "DisabledTextColor": "255,255,255,255",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0,
         "NormalImage": "control_button.png",
         "HoveredImage": "control_button_hovered.png",
@@ -1374,7 +1399,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Bottom",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CloseButton": {
@@ -1403,7 +1429,8 @@
           "DisabledTextColor": "255,90,90,90",
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": null,
+          "FontName": null,
+          "FontSize": null,
           "TextScale": 1.0,
           "NormalImage": null,
           "HoveredImage": null,

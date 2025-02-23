@@ -103,7 +103,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel0": {
@@ -133,7 +134,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel0": {
@@ -163,7 +165,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel0": {
@@ -193,7 +196,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -277,7 +281,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel1": {
@@ -307,7 +312,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel1": {
@@ -337,7 +343,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel1": {
@@ -367,7 +374,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -451,7 +459,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel2": {
@@ -481,7 +490,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel2": {
@@ -511,7 +521,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel2": {
@@ -541,7 +552,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -625,7 +637,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel3": {
@@ -655,7 +668,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel3": {
@@ -685,7 +699,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel3": {
@@ -715,7 +730,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -799,7 +815,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel4": {
@@ -829,7 +846,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel4": {
@@ -859,7 +877,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel4": {
@@ -889,7 +908,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -973,7 +993,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel5": {
@@ -1003,7 +1024,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel5": {
@@ -1033,7 +1055,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel5": {
@@ -1063,7 +1086,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -1147,7 +1171,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel6": {
@@ -1177,7 +1202,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel6": {
@@ -1207,7 +1233,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel6": {
@@ -1237,7 +1264,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -1321,7 +1349,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel7": {
@@ -1351,7 +1380,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel7": {
@@ -1381,7 +1411,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel7": {
@@ -1411,7 +1442,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -1495,7 +1527,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel8": {
@@ -1525,7 +1558,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel8": {
@@ -1555,7 +1589,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel8": {
@@ -1585,7 +1620,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -1669,7 +1705,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel9": {
@@ -1699,7 +1736,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel9": {
@@ -1729,7 +1767,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel9": {
@@ -1759,7 +1798,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -1843,7 +1883,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel10": {
@@ -1873,7 +1914,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel10": {
@@ -1903,7 +1945,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel10": {
@@ -1933,7 +1976,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2017,7 +2061,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel11": {
@@ -2047,7 +2092,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel11": {
@@ -2077,7 +2123,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel11": {
@@ -2107,7 +2154,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2191,7 +2239,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel12": {
@@ -2221,7 +2270,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel12": {
@@ -2251,7 +2301,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel12": {
@@ -2281,7 +2332,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2365,7 +2417,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel13": {
@@ -2395,7 +2448,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel13": {
@@ -2425,7 +2479,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel13": {
@@ -2455,7 +2510,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2539,7 +2595,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel14": {
@@ -2569,7 +2626,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel14": {
@@ -2599,7 +2657,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel14": {
@@ -2629,7 +2688,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2713,7 +2773,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel15": {
@@ -2743,7 +2804,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel15": {
@@ -2773,7 +2835,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel15": {
@@ -2803,7 +2866,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -2887,7 +2951,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel16": {
@@ -2917,7 +2982,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel16": {
@@ -2947,7 +3013,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel16": {
@@ -2977,7 +3044,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3061,7 +3129,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel17": {
@@ -3091,7 +3160,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel17": {
@@ -3121,7 +3191,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel17": {
@@ -3151,7 +3222,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3235,7 +3307,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel18": {
@@ -3265,7 +3338,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel18": {
@@ -3295,7 +3369,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel18": {
@@ -3325,7 +3400,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3409,7 +3485,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel19": {
@@ -3439,7 +3516,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel19": {
@@ -3469,7 +3547,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel19": {
@@ -3499,7 +3578,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3583,7 +3663,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel20": {
@@ -3613,7 +3694,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel20": {
@@ -3643,7 +3725,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel20": {
@@ -3673,7 +3756,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3757,7 +3841,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel21": {
@@ -3787,7 +3872,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel21": {
@@ -3817,7 +3903,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel21": {
@@ -3847,7 +3934,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -3931,7 +4019,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel22": {
@@ -3961,7 +4050,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel22": {
@@ -3991,7 +4081,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel22": {
@@ -4021,7 +4112,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4105,7 +4197,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel23": {
@@ -4135,7 +4228,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel23": {
@@ -4165,7 +4259,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel23": {
@@ -4195,7 +4290,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4279,7 +4375,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel24": {
@@ -4309,7 +4406,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel24": {
@@ -4339,7 +4437,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel24": {
@@ -4369,7 +4468,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4453,7 +4553,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel25": {
@@ -4483,7 +4584,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel25": {
@@ -4513,7 +4615,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel25": {
@@ -4543,7 +4646,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4627,7 +4731,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel26": {
@@ -4657,7 +4762,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel26": {
@@ -4687,7 +4793,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel26": {
@@ -4717,7 +4824,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4801,7 +4909,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel27": {
@@ -4831,7 +4940,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel27": {
@@ -4861,7 +4971,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel27": {
@@ -4891,7 +5002,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -4975,7 +5087,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel28": {
@@ -5005,7 +5118,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel28": {
@@ -5035,7 +5149,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel28": {
@@ -5065,7 +5180,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }
@@ -5149,7 +5265,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "QuantityLabel29": {
@@ -5179,7 +5296,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CooldownLabel29": {
@@ -5209,7 +5327,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "KeyLabel29": {
@@ -5239,7 +5358,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         }
       }

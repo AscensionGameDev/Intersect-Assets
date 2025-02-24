@@ -18,7 +18,7 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "TooltipTextColor": null,
-  "Texture": "resources/gui/hotbar.png",
+  "Texture": "hotbar.png",
   "TextureNinePatchMargin": "3,3,3,3",
   "HoverSound": null,
   "LeftMouseClickSound": null,
@@ -44,7 +44,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -104,7 +104,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel0": {
@@ -135,7 +135,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel0": {
@@ -166,7 +166,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel0": {
@@ -197,7 +197,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -222,7 +222,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -282,7 +282,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel1": {
@@ -313,7 +313,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel1": {
@@ -344,7 +344,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel1": {
@@ -375,7 +375,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -400,7 +400,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -460,7 +460,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel2": {
@@ -491,7 +491,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel2": {
@@ -522,7 +522,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel2": {
@@ -553,7 +553,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -578,7 +578,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -638,7 +638,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel3": {
@@ -669,7 +669,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel3": {
@@ -700,7 +700,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel3": {
@@ -731,7 +731,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -756,7 +756,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -816,7 +816,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel4": {
@@ -847,7 +847,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel4": {
@@ -878,7 +878,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel4": {
@@ -909,7 +909,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -934,7 +934,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -994,7 +994,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel5": {
@@ -1025,7 +1025,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel5": {
@@ -1056,7 +1056,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel5": {
@@ -1087,7 +1087,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -1112,7 +1112,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -1172,7 +1172,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel6": {
@@ -1203,7 +1203,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel6": {
@@ -1234,7 +1234,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel6": {
@@ -1265,7 +1265,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -1290,7 +1290,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -1350,7 +1350,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel7": {
@@ -1381,7 +1381,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel7": {
@@ -1412,7 +1412,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel7": {
@@ -1443,7 +1443,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -1468,7 +1468,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -1528,7 +1528,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel8": {
@@ -1559,7 +1559,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel8": {
@@ -1590,7 +1590,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel8": {
@@ -1621,7 +1621,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -1646,7 +1646,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -1706,7 +1706,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel9": {
@@ -1737,7 +1737,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel9": {
@@ -1768,7 +1768,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel9": {
@@ -1799,7 +1799,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -1824,7 +1824,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -1884,7 +1884,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel10": {
@@ -1915,7 +1915,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel10": {
@@ -1946,7 +1946,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel10": {
@@ -1977,7 +1977,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2002,7 +2002,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2062,7 +2062,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel11": {
@@ -2093,7 +2093,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel11": {
@@ -2124,7 +2124,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel11": {
@@ -2155,7 +2155,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2180,7 +2180,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2240,7 +2240,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel12": {
@@ -2271,7 +2271,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel12": {
@@ -2302,7 +2302,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel12": {
@@ -2333,7 +2333,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2358,7 +2358,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2418,7 +2418,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel13": {
@@ -2449,7 +2449,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel13": {
@@ -2480,7 +2480,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel13": {
@@ -2511,7 +2511,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2536,7 +2536,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2596,7 +2596,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel14": {
@@ -2627,7 +2627,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel14": {
@@ -2658,7 +2658,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel14": {
@@ -2689,7 +2689,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2714,7 +2714,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2774,7 +2774,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel15": {
@@ -2805,7 +2805,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel15": {
@@ -2836,7 +2836,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel15": {
@@ -2867,7 +2867,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -2892,7 +2892,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -2952,7 +2952,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel16": {
@@ -2983,7 +2983,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel16": {
@@ -3014,7 +3014,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel16": {
@@ -3045,7 +3045,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3070,7 +3070,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -3130,7 +3130,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel17": {
@@ -3161,7 +3161,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel17": {
@@ -3192,7 +3192,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel17": {
@@ -3223,7 +3223,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3248,7 +3248,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -3308,7 +3308,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel18": {
@@ -3339,7 +3339,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel18": {
@@ -3370,7 +3370,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel18": {
@@ -3401,7 +3401,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3426,7 +3426,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -3486,7 +3486,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel19": {
@@ -3517,7 +3517,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel19": {
@@ -3548,7 +3548,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel19": {
@@ -3579,7 +3579,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3604,7 +3604,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -3664,7 +3664,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel20": {
@@ -3695,7 +3695,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel20": {
@@ -3726,7 +3726,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel20": {
@@ -3757,7 +3757,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3782,7 +3782,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -3842,7 +3842,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel21": {
@@ -3873,7 +3873,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel21": {
@@ -3904,7 +3904,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel21": {
@@ -3935,7 +3935,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -3960,7 +3960,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4020,7 +4020,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel22": {
@@ -4051,7 +4051,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel22": {
@@ -4082,7 +4082,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel22": {
@@ -4113,7 +4113,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -4138,7 +4138,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4198,7 +4198,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel23": {
@@ -4229,7 +4229,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel23": {
@@ -4260,7 +4260,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel23": {
@@ -4291,7 +4291,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -4316,7 +4316,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4376,7 +4376,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel24": {
@@ -4407,7 +4407,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel24": {
@@ -4438,7 +4438,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel24": {
@@ -4469,7 +4469,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -4494,7 +4494,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4554,7 +4554,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel25": {
@@ -4585,7 +4585,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel25": {
@@ -4616,7 +4616,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel25": {
@@ -4647,7 +4647,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -4672,7 +4672,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4732,7 +4732,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel26": {
@@ -4763,7 +4763,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel26": {
@@ -4794,7 +4794,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel26": {
@@ -4825,7 +4825,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -4850,7 +4850,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -4910,7 +4910,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel27": {
@@ -4941,7 +4941,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel27": {
@@ -4972,7 +4972,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel27": {
@@ -5003,7 +5003,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -5028,7 +5028,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -5088,7 +5088,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel28": {
@@ -5119,7 +5119,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel28": {
@@ -5150,7 +5150,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel28": {
@@ -5181,7 +5181,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }
@@ -5206,7 +5206,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "TooltipTextColor": null,
-      "Texture": "resources/gui/hotbaritem.png",
+      "Texture": "hotbaritem.png",
       "TextureNinePatchMargin": null,
       "HoverSound": null,
       "LeftMouseClickSound": null,
@@ -5266,7 +5266,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "QuantityLabel29": {
@@ -5297,7 +5297,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "CooldownLabel29": {
@@ -5328,7 +5328,7 @@
           "TextAlign": "Center",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         },
         "KeyLabel29": {
@@ -5359,7 +5359,7 @@
           "TextAlign": "Left, Top",
           "AutoSizeToContents": true,
           "FontName": "sourcesansproblack",
-          "FontSize": 12,
+          "FontSize": 8,
           "TextScale": 1.0
         }
       }

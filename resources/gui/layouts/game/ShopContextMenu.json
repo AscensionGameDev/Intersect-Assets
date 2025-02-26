@@ -287,5 +287,6 @@
   "BackgroundTemplate": null,
   "ItemTextColor": "",
   "ItemHoveredTextColor": "",
-  "ItemFont": "sourcesansproblack,10"
+  "ItemFontName": "sourcesansproblack",
+  "ItemFontSize": 10
 }

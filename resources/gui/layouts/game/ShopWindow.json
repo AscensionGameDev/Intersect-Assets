@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,442,469",
+  "Bounds": "0,0,435,469",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -8,7 +8,7 @@
   "RenderColor": "255,255,255,255",
   "Alignments": "Center",
   "DrawBackground": true,
-  "MinimumSize": "442,469",
+  "MinimumSize": "435,469",
   "MaximumSize": "0,0",
   "Disabled": false,
   "Hidden": false,
@@ -26,7 +26,7 @@
   "InactiveColor": "255,191,191,191",
   "IsClosable": true,
   "InnerPanel": {
-    "Bounds": "0,32,442,437",
+    "Bounds": "0,32,435,437",
     "Dock": "Fill",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
@@ -35,7 +35,7 @@
     "RenderColor": "255,255,255,255",
     "Alignments": "",
     "DrawBackground": true,
-    "MinimumSize": "442,437",
+    "MinimumSize": "435,437",
     "MaximumSize": "0,0",
     "Disabled": false,
     "Hidden": false,
@@ -47,7 +47,7 @@
     "TooltipTextColor": null,
     "Children": {
       "ItemContainer": {
-        "Bounds": "0,0,442,437",
+        "Bounds": "0,0,435,437",
         "Dock": "Fill",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -201,7 +201,7 @@
           }
         },
         "VerticalScrollBar": {
-          "Bounds": "427,0,15,437",
+          "Bounds": "420,0,15,437",
           "Dock": "Right",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -337,7 +337,7 @@
   },
   "Children": {
     "Titlebar": {
-      "Bounds": "0,0,442,32",
+      "Bounds": "0,0,435,32",
       "Dock": "Top",
       "Padding": "4,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -391,9 +391,9 @@
           "RightMouseClickSound": null
         },
         "_label": {
-          "Bounds": "4,0,406,32",
+          "Bounds": "4,0,399,32",
           "Dock": "CenterV, Fill",
-          "Padding": "30,4,4,4",
+          "Padding": "4,4,4,4",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -415,14 +415,14 @@
           "HoveredTextColor": null,
           "ClickedTextColor": null,
           "DisabledTextColor": null,
-          "TextAlign": "Left, CenterV",
+          "TextAlign": "Left, Bottom",
           "AutoSizeToContents": false,
           "FontName": "sourcesansproblack",
           "FontSize": 14,
           "TextScale": 1.0
         },
         "CloseButton": {
-          "Bounds": "410,0,32,32",
+          "Bounds": "403,0,32,32",
           "Dock": "Right",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",

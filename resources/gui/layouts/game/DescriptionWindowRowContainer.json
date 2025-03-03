@@ -1,6 +1,6 @@
 {
-  "Bounds": "0,0,210,46",
-  "Dock": "None",
+  "Bounds": "0,0,210,10",
+  "Dock": "Top",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -8,8 +8,8 @@
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,
-  "MinimumSize": "1,1",
-  "MaximumSize": "4096,4096",
+  "MinimumSize": "0,0",
+  "MaximumSize": "0,0",
   "Disabled": false,
   "Hidden": false,
   "RestrictToParent": false,
@@ -19,7 +19,7 @@
   "ToolTipFont": null,
   "TooltipTextColor": null,
   "Texture": "description.png",
-  "TextureNinePatchMargin": null,
+  "TextureNinePatchMargin": "4,4,4,4",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
@@ -51,7 +51,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "Key": {
-          "Bounds": "2,0,1,16",
+          "Bounds": "2,0,1,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -82,7 +82,7 @@
           "TextScale": 1.0
         },
         "Value": {
-          "Bounds": "150,0,1,16",
+          "Bounds": "150,0,1,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",

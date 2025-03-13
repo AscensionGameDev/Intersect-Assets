@@ -5366,7 +5366,7 @@
                         "Notches": null,
                         "Children": {
                           "_sliderBar": {
-                            "Bounds": "2,0,9,9",
+                            "Bounds": "1,0,9,9",
                             "Dock": "None",
                             "Padding": "0,0,0,0",
                             "AlignmentEdgeDistances": "0,0,0,0",
@@ -5510,7 +5510,7 @@
                         "Notches": null,
                         "Children": {
                           "_sliderBar": {
-                            "Bounds": "111,0,9,9",
+                            "Bounds": "16,0,9,9",
                             "Dock": "None",
                             "Padding": "0,0,0,0",
                             "AlignmentEdgeDistances": "0,0,0,0",
@@ -6113,7 +6113,7 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "TooltipTextColor": null,
-          "Texture": "SettingsWindow.icon.png",
+          "Texture": "settingswindow.icon.png",
           "TextureNinePatchMargin": null,
           "HoverSound": null,
           "LeftMouseClickSound": null,

@@ -470,9 +470,7 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": null,
-      "MouseUpSound": null,
-      "MouseDownSound": null,
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",

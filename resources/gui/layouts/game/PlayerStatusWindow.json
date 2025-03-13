@@ -131,9 +131,11 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          }
         },
         "DownOrRightButton": {
           "Bounds": "0,0,15,15",
@@ -261,9 +263,11 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          }
         },
         "DownOrRightButton": {
           "Bounds": "0,0,15,15",

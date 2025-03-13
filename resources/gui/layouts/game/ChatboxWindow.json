@@ -131,9 +131,11 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          }
         },
         "DownOrRightButton": {
           "Bounds": "0,0,15,15",
@@ -261,9 +263,11 @@
           "HoveredImage": null,
           "ClickedImage": null,
           "DisabledImage": null,
-          "HoverSound": null,
-          "MouseUpSound": null,
-          "MouseDownSound": null
+          "_stateSoundNames": {
+            "Hover": "octave-tap-resonant.wav",
+            "MouseDown": "octave-tap-warm.wav",
+            "MouseUp": "octave-tap-warm.wav"
+          }
         },
         "DownOrRightButton": {
           "Bounds": "0,0,15,15",
@@ -648,7 +652,7 @@
       "SubmitSound": "octave-tap-warm.wav"
     },
     "ChannelLabel": {
-      "Bounds": "164,9,54,16",
+      "Bounds": "164,9,63,20",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -852,9 +856,11 @@
               "HoveredImage": "",
               "ClickedImage": "",
               "DisabledImage": "",
-              "HoverSound": "octave-tap-resonant.wav",
-              "MouseUpSound": "octave-tap-professional.wav",
-              "MouseDownSound": "octave-tap-professional.wav"
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              }
             },
             "DownOrRightButton": {
               "Bounds": "0,0,15,15",
@@ -982,9 +988,11 @@
               "HoveredImage": "scrollbarhover.png",
               "ClickedImage": "scrollbarclicked.png",
               "DisabledImage": "",
-              "HoverSound": "octave-tap-resonant.wav",
-              "MouseUpSound": "octave-tap-professional.wav",
-              "MouseDownSound": "octave-tap-professional.wav"
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              }
             },
             "DownOrRightButton": {
               "Bounds": "0,0,15,15",
@@ -1030,7 +1038,8 @@
           "BackgroundTemplate": "contextmenu.png",
           "ItemTextColor": "255,180,180,180",
           "ItemHoveredTextColor": "255,255,255,255",
-          "ItemFont": "sourcesansproblack,10"
+          "ItemFontName": "sourcesansproblack",
+          "ItemFontSize": 10
         },
         "_arrowIcon": {
           "Bounds": "42,0,15,15",
@@ -1087,7 +1096,7 @@
       "TextScale": 1.0
     },
     "ChatboxSendButton": {
-      "Bounds": "0,0,0,0",
+      "Bounds": "0,0,1,1",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",

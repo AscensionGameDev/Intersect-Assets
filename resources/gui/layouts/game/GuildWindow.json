@@ -214,9 +214,11 @@
             "HoveredImage": "",
             "ClickedImage": "",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -344,9 +346,11 @@
             "HoveredImage": "scrollbarhover.png",
             "ClickedImage": "scrollbarclicked.png",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -547,9 +551,7 @@
       "HoveredImage": "",
       "ClickedImage": "",
       "DisabledImage": "",
-      "HoverSound": "",
-      "MouseUpSound": "",
-      "MouseDownSound": "",
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",

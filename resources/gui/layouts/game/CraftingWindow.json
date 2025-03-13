@@ -115,7 +115,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "",
             "HoveredImage": "",
@@ -152,9 +153,11 @@
             "HoveredImage": "",
             "ClickedImage": "",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -182,7 +185,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "",
             "HoveredImage": "",
@@ -243,7 +247,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "uparrownormal.png",
             "HoveredImage": "uparrowhover.png",
@@ -280,9 +285,11 @@
             "HoveredImage": "scrollbarhover.png",
             "ClickedImage": "scrollbarclicked.png",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -310,7 +317,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "downarrownormal.png",
             "HoveredImage": "downarrowhover.png",
@@ -352,7 +360,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": null,
+        "FontName": null,
+        "FontSize": null,
         "TextScale": 1.0
       },
       "IngredientsTitle": {
@@ -382,7 +391,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ProductLabel": {
@@ -412,7 +422,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "ProductChanceLabel": {
@@ -442,7 +453,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "DestroyMaterialsChanceLabel": {
@@ -472,7 +484,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "CraftingTimeLabel": {
@@ -502,7 +515,8 @@
         "DisabledTextColor": "255,90,90,90",
         "TextAlign": "Left, Top",
         "AutoSizeToContents": true,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "TextScale": 1.0
       },
       "RecipesList": {
@@ -574,7 +588,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "",
             "HoveredImage": "",
@@ -611,9 +626,11 @@
             "HoveredImage": "",
             "ClickedImage": "",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -641,7 +658,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "",
             "HoveredImage": "",
@@ -702,7 +720,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "uparrownormal.png",
             "HoveredImage": "uparrowhover.png",
@@ -739,9 +758,11 @@
             "HoveredImage": "scrollbarhover.png",
             "ClickedImage": "scrollbarclicked.png",
             "DisabledImage": "",
-            "HoverSound": "octave-tap-resonant.wav",
-            "MouseUpSound": "octave-tap-professional.wav",
-            "MouseDownSound": "octave-tap-professional.wav"
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,100,20",
@@ -769,7 +790,8 @@
             "DisabledTextColor": "255,90,90,90",
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "downarrownormal.png",
             "HoveredImage": "downarrowhover.png",
@@ -786,7 +808,8 @@
         "SizeToContents": false,
         "MultiSelect": false,
         "IsToggle": false,
-        "Font": "sourcesansproblack,10",
+        "FontName": "sourcesansproblack",
+        "FontSize": 10,
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
         "ItemRightClickSound": null,
@@ -820,7 +843,7 @@
         "RightMouseClickSound": null,
         "Children": {
           "ProgressBar": {
-            "Bounds": "0,0,0,5",
+            "Bounds": "0,0,1,5",
             "Dock": "None",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -873,7 +896,8 @@
         "DisabledTextColor": "255,225,225,225",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,12",
+        "FontName": "sourcesansproblack",
+        "FontSize": 12,
         "TextScale": 1.0,
         "NormalImage": "smallbutton.png",
         "HoveredImage": "smallbutton_hovered.png",
@@ -912,7 +936,8 @@
         "DisabledTextColor": "255,225,225,225",
         "TextAlign": "Center",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,12",
+        "FontName": "sourcesansproblack",
+        "FontSize": 12,
         "TextScale": 1.0,
         "NormalImage": "smallbutton.png",
         "HoveredImage": "smallbutton_hovered.png",
@@ -952,9 +977,7 @@
       "HoveredImage": "",
       "ClickedImage": "",
       "DisabledImage": "",
-      "HoverSound": "",
-      "MouseUpSound": "",
-      "MouseDownSound": "",
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",
@@ -1009,7 +1032,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Bottom",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,12",
+          "FontName": "sourcesansproblack",
+          "FontSize": 12,
           "TextScale": 1.0
         },
         "CloseButton": {
@@ -1038,7 +1062,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": null,
+          "FontName": null,
+          "FontSize": null,
           "TextScale": 1.0,
           "NormalImage": null,
           "HoveredImage": null,

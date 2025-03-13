@@ -251,7 +251,7 @@
         "TooltipTextColor": null,
         "Children": {
           "_infoLabel": {
-            "Bounds": "192,138,160,20",
+            "Bounds": "187,138,169,20",
             "Dock": "Bottom, CenterH",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -470,9 +470,7 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": null,
-      "MouseUpSound": null,
-      "MouseDownSound": null,
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",

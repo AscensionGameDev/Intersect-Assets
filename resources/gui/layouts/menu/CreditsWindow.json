@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,640,400",
+  "Bounds": "0,0,100,40",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -109,7 +109,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "TooltipTextColor": null,
-            "TextColor": "255,255,255,255",
+            "TextColor": null,
             "HoveredTextColor": null,
             "ClickedTextColor": null,
             "DisabledTextColor": null,
@@ -153,9 +153,11 @@
             "HoveredImage": null,
             "ClickedImage": null,
             "DisabledImage": null,
-            "HoverSound": null,
-            "MouseUpSound": null,
-            "MouseDownSound": null
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,15,15",
@@ -177,7 +179,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "TooltipTextColor": null,
-            "TextColor": "255,255,255,255",
+            "TextColor": null,
             "HoveredTextColor": null,
             "ClickedTextColor": null,
             "DisabledTextColor": null,
@@ -239,7 +241,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "TooltipTextColor": null,
-            "TextColor": "255,255,255,255",
+            "TextColor": null,
             "HoveredTextColor": null,
             "ClickedTextColor": null,
             "DisabledTextColor": null,
@@ -283,9 +285,11 @@
             "HoveredImage": null,
             "ClickedImage": null,
             "DisabledImage": null,
-            "HoverSound": null,
-            "MouseUpSound": null,
-            "MouseDownSound": null
+            "_stateSoundNames": {
+              "Hover": "octave-tap-resonant.wav",
+              "MouseDown": "octave-tap-warm.wav",
+              "MouseUp": "octave-tap-warm.wav"
+            }
           },
           "DownOrRightButton": {
             "Bounds": "0,0,15,15",
@@ -307,7 +311,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "TooltipTextColor": null,
-            "TextColor": "255,255,255,255",
+            "TextColor": null,
             "HoveredTextColor": null,
             "ClickedTextColor": null,
             "DisabledTextColor": null,
@@ -401,9 +405,7 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": null,
-      "MouseUpSound": null,
-      "MouseDownSound": null,
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",
@@ -452,7 +454,7 @@
           "ToolTipFont": null,
           "TooltipTextColor": null,
           "BackgroundTemplate": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": null,
           "HoveredTextColor": null,
           "ClickedTextColor": null,
           "DisabledTextColor": null,
@@ -482,7 +484,7 @@
           "ToolTipBackground": null,
           "ToolTipFont": null,
           "TooltipTextColor": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": null,
           "HoveredTextColor": null,
           "ClickedTextColor": null,
           "DisabledTextColor": null,

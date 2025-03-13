@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,560,240",
+  "Bounds": "0,0,584,240",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -26,7 +26,7 @@
   "InactiveColor": "255,191,191,191",
   "IsClosable": false,
   "InnerPanel": {
-    "Bounds": "0,32,560,208",
+    "Bounds": "0,32,584,208",
     "Dock": "Fill",
     "Padding": "8,8,8,8",
     "AlignmentEdgeDistances": "0,0,0,0",
@@ -93,7 +93,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0,
             "NormalImage": null,
             "HoveredImage": null,
@@ -132,7 +133,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0,
             "NormalImage": null,
             "HoveredImage": null,
@@ -148,7 +150,7 @@
         }
       },
       "_propertiesPanel": {
-        "Bounds": "312,8,240,94",
+        "Bounds": "312,8,264,94",
         "Dock": "Right",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -194,7 +196,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Left, CenterV",
             "AutoSizeToContents": false,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0,
             "AddTextSound": null,
             "RemoveTextSound": null,
@@ -248,7 +251,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Left, Top",
                 "AutoSizeToContents": true,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0
               },
               "_comboBox": {
@@ -277,7 +281,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Left, CenterV",
                 "AutoSizeToContents": false,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0,
                 "NormalImage": null,
                 "HoveredImage": null,
@@ -386,7 +391,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -423,9 +429,11 @@
                         "HoveredImage": null,
                         "ClickedImage": null,
                         "DisabledImage": null,
-                        "HoverSound": null,
-                        "MouseUpSound": null,
-                        "MouseDownSound": null
+                        "_stateSoundNames": {
+                          "Hover": "octave-tap-resonant.wav",
+                          "MouseDown": "octave-tap-warm.wav",
+                          "MouseUp": "octave-tap-warm.wav"
+                        }
                       },
                       "DownOrRightButton": {
                         "Bounds": "0,0,15,15",
@@ -453,7 +461,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -514,7 +523,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -551,9 +561,11 @@
                         "HoveredImage": null,
                         "ClickedImage": null,
                         "DisabledImage": null,
-                        "HoverSound": null,
-                        "MouseUpSound": null,
-                        "MouseDownSound": null
+                        "_stateSoundNames": {
+                          "Hover": "octave-tap-resonant.wav",
+                          "MouseDown": "octave-tap-warm.wav",
+                          "MouseUp": "octave-tap-warm.wav"
+                        }
                       },
                       "DownOrRightButton": {
                         "Bounds": "0,0,15,15",
@@ -581,7 +593,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -598,7 +611,8 @@
                     "BackgroundTemplate": null,
                     "ItemTextColor": "",
                     "ItemHoveredTextColor": "",
-                    "ItemFont": null
+                    "ItemFontName": null,
+                    "ItemFontSize": 0
                   },
                   "_arrowIcon": {
                     "Bounds": "176,6,15,15",
@@ -626,7 +640,7 @@
             }
           },
           "_genderInputPanel": {
-            "Bounds": "0,68,240,26",
+            "Bounds": "0,68,264,26",
             "Dock": "Top",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -693,7 +707,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Center",
                     "AutoSizeToContents": false,
-                    "Font": null,
+                    "FontName": null,
+                    "FontSize": null,
                     "TextScale": 1.0,
                     "_stateSoundNames": {
                       "Hover": "octave-tap-resonant.wav",
@@ -735,13 +750,14 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, CenterV",
                     "AutoSizeToContents": true,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0
                   }
                 }
               },
               "_genderFemaleCheckbox": {
-                "Bounds": "159,0,81,26",
+                "Bounds": "183,0,81,26",
                 "Dock": "Right, CenterV",
                 "Padding": "0,0,0,0",
                 "AlignmentEdgeDistances": "0,0,0,0",
@@ -787,7 +803,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Center",
                     "AutoSizeToContents": false,
-                    "Font": null,
+                    "FontName": null,
+                    "FontSize": null,
                     "TextScale": 1.0,
                     "_stateSoundNames": {
                       "Hover": "octave-tap-resonant.wav",
@@ -829,7 +846,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, CenterV",
                     "AutoSizeToContents": true,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0
                   }
                 }
@@ -934,7 +952,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "button.arrow_left.normal.png",
             "HoveredImage": "button.arrow_left.hovered.png",
@@ -973,7 +992,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": null,
+            "FontName": null,
+            "FontSize": null,
             "TextScale": 1.0,
             "NormalImage": "button.arrow_right.normal.png",
             "HoveredImage": "button.arrow_right.hovered.png",
@@ -1015,9 +1035,7 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": null,
-      "MouseUpSound": null,
-      "MouseDownSound": null,
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",
@@ -1072,7 +1090,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Bottom",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,14",
+          "FontName": "sourcesansproblack",
+          "FontSize": 14,
           "TextScale": 1.0
         },
         "CloseButton": {
@@ -1101,7 +1120,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": null,
+          "FontName": null,
+          "FontSize": null,
           "TextScale": 1.0,
           "NormalImage": null,
           "HoveredImage": null,

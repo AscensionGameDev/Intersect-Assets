@@ -51,7 +51,7 @@
       "RightMouseClickSound": "octave-beep-tapped.wav"
     },
     "MapItemValue": {
-      "Bounds": "33,21,1,14",
+      "Bounds": "33,15,1,20",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",

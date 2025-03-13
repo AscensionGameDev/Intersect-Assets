@@ -51,7 +51,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "84,6,1,16",
+          "Bounds": "84,6,1,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -82,7 +82,7 @@
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
-          "Bounds": "236,6,1,16",
+          "Bounds": "236,6,1,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -113,7 +113,7 @@
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
-          "Bounds": "32,6,1,16",
+          "Bounds": "32,6,1,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -201,7 +201,7 @@
           "RightMouseClickSound": null
         },
         "EventDescLabel": {
-          "Bounds": "93,43,0,0",
+          "Bounds": "93,43,1,1",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -301,7 +301,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "82,39,21,16",
+          "Bounds": "82,39,26,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -415,7 +415,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "82,61,22,16",
+          "Bounds": "82,61,27,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -529,7 +529,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "95,95,27,16",
+          "Bounds": "95,95,33,20",
           "Dock": "None",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
@@ -765,9 +765,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              }
             },
             "DownOrRightButton": {
               "Bounds": "0,0,15,15",
@@ -895,9 +897,11 @@
               "HoveredImage": null,
               "ClickedImage": null,
               "DisabledImage": null,
-              "HoverSound": null,
-              "MouseUpSound": null,
-              "MouseDownSound": null
+              "_stateSoundNames": {
+                "Hover": "octave-tap-resonant.wav",
+                "MouseDown": "octave-tap-warm.wav",
+                "MouseUp": "octave-tap-warm.wav"
+              }
             },
             "DownOrRightButton": {
               "Bounds": "0,0,15,15",

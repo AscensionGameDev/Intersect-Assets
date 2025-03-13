@@ -1342,9 +1342,7 @@
       "HoveredImage": "",
       "ClickedImage": "",
       "DisabledImage": "",
-      "HoverSound": "",
-      "MouseUpSound": "",
-      "MouseDownSound": "",
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",

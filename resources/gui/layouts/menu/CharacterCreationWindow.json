@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,560,240",
+  "Bounds": "0,0,584,240",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -26,7 +26,7 @@
   "InactiveColor": "255,191,191,191",
   "IsClosable": false,
   "InnerPanel": {
-    "Bounds": "0,32,560,208",
+    "Bounds": "0,32,584,208",
     "Dock": "Fill",
     "Padding": "8,8,8,8",
     "AlignmentEdgeDistances": "0,0,0,0",
@@ -150,7 +150,7 @@
         }
       },
       "_propertiesPanel": {
-        "Bounds": "312,8,240,94",
+        "Bounds": "312,8,264,94",
         "Dock": "Right",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -640,7 +640,7 @@
             }
           },
           "_genderInputPanel": {
-            "Bounds": "0,68,240,26",
+            "Bounds": "0,68,264,26",
             "Dock": "Top",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
@@ -757,7 +757,7 @@
                 }
               },
               "_genderFemaleCheckbox": {
-                "Bounds": "159,0,81,26",
+                "Bounds": "183,0,81,26",
                 "Dock": "Right, CenterV",
                 "Padding": "0,0,0,0",
                 "AlignmentEdgeDistances": "0,0,0,0",

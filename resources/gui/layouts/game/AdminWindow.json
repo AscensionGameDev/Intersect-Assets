@@ -94,7 +94,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Right",
             "AutoSizeToContents": true,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0
           },
           "_nameInput": {
@@ -123,7 +124,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Left, CenterV",
             "AutoSizeToContents": false,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0,
             "AddTextSound": null,
             "RemoveTextSound": null,
@@ -178,7 +180,8 @@
             "DisabledTextColor": null,
             "TextAlign": "Center",
             "AutoSizeToContents": false,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextScale": 1.0,
             "NormalImage": null,
             "HoveredImage": null,
@@ -239,7 +242,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Left, Top",
                 "AutoSizeToContents": true,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0
               },
               "_comboBox": {
@@ -268,7 +272,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Left, CenterV",
                 "AutoSizeToContents": false,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0,
                 "NormalImage": null,
                 "HoveredImage": null,
@@ -377,7 +382,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -414,9 +420,11 @@
                         "HoveredImage": null,
                         "ClickedImage": null,
                         "DisabledImage": null,
-                        "HoverSound": null,
-                        "MouseUpSound": null,
-                        "MouseDownSound": null
+                        "_stateSoundNames": {
+                          "Hover": "octave-tap-resonant.wav",
+                          "MouseDown": "octave-tap-warm.wav",
+                          "MouseUp": "octave-tap-warm.wav"
+                        }
                       },
                       "DownOrRightButton": {
                         "Bounds": "0,0,15,15",
@@ -444,7 +452,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -505,7 +514,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -542,9 +552,11 @@
                         "HoveredImage": null,
                         "ClickedImage": null,
                         "DisabledImage": null,
-                        "HoverSound": null,
-                        "MouseUpSound": null,
-                        "MouseDownSound": null
+                        "_stateSoundNames": {
+                          "Hover": "octave-tap-resonant.wav",
+                          "MouseDown": "octave-tap-warm.wav",
+                          "MouseUp": "octave-tap-warm.wav"
+                        }
                       },
                       "DownOrRightButton": {
                         "Bounds": "0,0,15,15",
@@ -572,7 +584,8 @@
                         "DisabledTextColor": null,
                         "TextAlign": "Center",
                         "AutoSizeToContents": false,
-                        "Font": null,
+                        "FontName": null,
+                        "FontSize": null,
                         "TextScale": 1.0,
                         "NormalImage": null,
                         "HoveredImage": null,
@@ -589,7 +602,8 @@
                     "BackgroundTemplate": null,
                     "ItemTextColor": "",
                     "ItemHoveredTextColor": "",
-                    "ItemFont": null
+                    "ItemFontName": null,
+                    "ItemFontSize": 0
                   },
                   "_arrowIcon": {
                     "Bounds": "202,0,15,15",
@@ -661,7 +675,8 @@
             "TooltipTextColor": null,
             "SizeToContents": false,
             "DefaultRowHeight": 22,
-            "Font": "sourcesansproblack,12",
+            "FontName": "sourcesansproblack",
+            "FontSize": 12,
             "TextColor": null,
             "TextColorOverride": null
           }
@@ -806,7 +821,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, Top",
                     "AutoSizeToContents": true,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0
                   },
                   "_comboBox": {
@@ -835,7 +851,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, CenterV",
                     "AutoSizeToContents": false,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0,
                     "NormalImage": null,
                     "HoveredImage": null,
@@ -944,7 +961,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -981,9 +999,11 @@
                             "HoveredImage": null,
                             "ClickedImage": null,
                             "DisabledImage": null,
-                            "HoverSound": null,
-                            "MouseUpSound": null,
-                            "MouseDownSound": null
+                            "_stateSoundNames": {
+                              "Hover": "octave-tap-resonant.wav",
+                              "MouseDown": "octave-tap-warm.wav",
+                              "MouseUp": "octave-tap-warm.wav"
+                            }
                           },
                           "DownOrRightButton": {
                             "Bounds": "0,0,15,15",
@@ -1011,7 +1031,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1072,7 +1093,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1109,9 +1131,11 @@
                             "HoveredImage": null,
                             "ClickedImage": null,
                             "DisabledImage": null,
-                            "HoverSound": null,
-                            "MouseUpSound": null,
-                            "MouseDownSound": null
+                            "_stateSoundNames": {
+                              "Hover": "octave-tap-resonant.wav",
+                              "MouseDown": "octave-tap-warm.wav",
+                              "MouseUp": "octave-tap-warm.wav"
+                            }
                           },
                           "DownOrRightButton": {
                             "Bounds": "0,0,15,15",
@@ -1139,7 +1163,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1156,7 +1181,8 @@
                         "BackgroundTemplate": null,
                         "ItemTextColor": "",
                         "ItemHoveredTextColor": "",
-                        "ItemFont": null
+                        "ItemFontName": null,
+                        "ItemFontSize": 0
                       },
                       "_arrowIcon": {
                         "Bounds": "228,8,15,15",
@@ -1209,7 +1235,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Center",
                 "AutoSizeToContents": false,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0,
                 "NormalImage": null,
                 "HoveredImage": null,
@@ -1365,7 +1392,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, Top",
                     "AutoSizeToContents": true,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0
                   },
                   "_comboBox": {
@@ -1394,7 +1422,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, CenterV",
                     "AutoSizeToContents": false,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0,
                     "NormalImage": null,
                     "HoveredImage": null,
@@ -1503,7 +1532,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1540,9 +1570,11 @@
                             "HoveredImage": null,
                             "ClickedImage": null,
                             "DisabledImage": null,
-                            "HoverSound": null,
-                            "MouseUpSound": null,
-                            "MouseDownSound": null
+                            "_stateSoundNames": {
+                              "Hover": "octave-tap-resonant.wav",
+                              "MouseDown": "octave-tap-warm.wav",
+                              "MouseUp": "octave-tap-warm.wav"
+                            }
                           },
                           "DownOrRightButton": {
                             "Bounds": "0,0,15,15",
@@ -1570,7 +1602,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1631,7 +1664,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1668,9 +1702,11 @@
                             "HoveredImage": null,
                             "ClickedImage": null,
                             "DisabledImage": null,
-                            "HoverSound": null,
-                            "MouseUpSound": null,
-                            "MouseDownSound": null
+                            "_stateSoundNames": {
+                              "Hover": "octave-tap-resonant.wav",
+                              "MouseDown": "octave-tap-warm.wav",
+                              "MouseUp": "octave-tap-warm.wav"
+                            }
                           },
                           "DownOrRightButton": {
                             "Bounds": "0,0,15,15",
@@ -1698,7 +1734,8 @@
                             "DisabledTextColor": null,
                             "TextAlign": "Center",
                             "AutoSizeToContents": false,
-                            "Font": null,
+                            "FontName": null,
+                            "FontSize": null,
                             "TextScale": 1.0,
                             "NormalImage": null,
                             "HoveredImage": null,
@@ -1715,7 +1752,8 @@
                         "BackgroundTemplate": null,
                         "ItemTextColor": "",
                         "ItemHoveredTextColor": "",
-                        "ItemFont": null
+                        "ItemFontName": null,
+                        "ItemFontSize": 0
                       },
                       "_arrowIcon": {
                         "Bounds": "243,8,15,15",
@@ -1768,7 +1806,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Center",
                 "AutoSizeToContents": false,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0,
                 "NormalImage": null,
                 "HoveredImage": null,
@@ -1854,7 +1893,8 @@
                 "DisabledTextColor": null,
                 "TextAlign": "Left, Top",
                 "AutoSizeToContents": true,
-                "Font": "sourcesansproblack,12",
+                "FontName": "sourcesansproblack",
+                "FontSize": 12,
                 "TextScale": 1.0
               },
               "_mapSortCheckbox": {
@@ -1875,7 +1915,7 @@
                 "MouseInputEnabled": true,
                 "HideToolTip": false,
                 "ToolTipBackground": null,
-                "ToolTipFont": "sourcesansproblack,12",
+                "ToolTipFont": "sourcesansproblack,10",
                 "TooltipTextColor": null,
                 "Children": {
                   "_checkbox": {
@@ -1904,7 +1944,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Center",
                     "AutoSizeToContents": false,
-                    "Font": null,
+                    "FontName": null,
+                    "FontSize": null,
                     "TextScale": 1.0,
                     "_stateSoundNames": {
                       "Hover": "octave-tap-resonant.wav",
@@ -1946,7 +1987,8 @@
                     "DisabledTextColor": null,
                     "TextAlign": "Left, CenterV",
                     "AutoSizeToContents": true,
-                    "Font": "sourcesansproblack,12",
+                    "FontName": "sourcesansproblack",
+                    "FontSize": 12,
                     "TextScale": 1.0
                   }
                 }
@@ -1982,9 +2024,7 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": null,
-      "MouseUpSound": null,
-      "MouseDownSound": null,
+      "_stateSoundNames": {},
       "Children": {
         "_icon": {
           "Bounds": "0,4,24,24",
@@ -2039,7 +2079,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Left, Bottom",
           "AutoSizeToContents": false,
-          "Font": "sourcesansproblack,14",
+          "FontName": "sourcesansproblack",
+          "FontSize": 14,
           "TextScale": 1.0
         },
         "CloseButton": {
@@ -2068,7 +2109,8 @@
           "DisabledTextColor": null,
           "TextAlign": "Center",
           "AutoSizeToContents": false,
-          "Font": null,
+          "FontName": null,
+          "FontSize": null,
           "TextScale": 1.0,
           "NormalImage": null,
           "HoveredImage": null,

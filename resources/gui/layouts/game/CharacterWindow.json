@@ -852,7 +852,7 @@
           }
         }
       },
-      "ExtraBuffsLabel": {
+      "_detailsButton": {
         "Bounds": "132,188,80,16",
         "Dock": "None",
         "Padding": "0,0,0,0",

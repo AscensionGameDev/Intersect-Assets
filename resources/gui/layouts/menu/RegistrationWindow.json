@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,560,180",
+  "Bounds": "0,0,560,190",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
@@ -8,7 +8,7 @@
   "RenderColor": "255,255,255,255",
   "Alignments": "CenterH",
   "DrawBackground": true,
-  "MinimumSize": "560,180",
+  "MinimumSize": "560,190",
   "MaximumSize": "0,0",
   "Disabled": false,
   "Hidden": false,

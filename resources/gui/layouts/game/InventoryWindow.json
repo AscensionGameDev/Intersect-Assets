@@ -61,7 +61,7 @@
         "Disabled": false,
         "Hidden": false,
         "RestrictToParent": false,
-        "MouseInputEnabled": false,
+        "MouseInputEnabled": true,
         "HideToolTip": false,
         "ToolTipBackground": null,
         "ToolTipFont": null,
@@ -420,9 +420,9 @@
           "TextScale": 1.0
         },
         "CloseButton": {
-          "Bounds": "197,0,28,28",
+          "Bounds": "197,0,24,24",
           "Dock": "Right",
-          "Padding": "3,3,3,3",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",

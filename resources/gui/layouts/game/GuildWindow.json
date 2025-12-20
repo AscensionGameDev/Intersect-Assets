@@ -20,7 +20,7 @@
   "TooltipTextColor": null,
   "ClampMovement": true,
   "DrawShadow": true,
-  "ActiveImage": "guild.png",
+  "ActiveImage": null,
   "InactiveImage": "",
   "ActiveColor": "255,220,220,220",
   "InactiveColor": "255,191,191,191",
@@ -485,7 +485,7 @@
         "CenterImage": false
       },
       "InvitePopupButton": {
-        "Bounds": "5,268,100,28",
+        "Bounds": "5,274,100,28",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -585,7 +585,7 @@
           "Padding": "4,4,4,4",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "35,0,0,0",
+          "Margin": "8,0,0,0",
           "RenderColor": "255,255,255,255",
           "Alignments": "",
           "DrawBackground": true,

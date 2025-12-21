@@ -20,7 +20,7 @@
   "TooltipTextColor": null,
   "ClampMovement": true,
   "DrawShadow": true,
-  "ActiveImage": "friends.png",
+  "ActiveImage": null,
   "InactiveImage": "",
   "ActiveColor": "255,220,220,220",
   "InactiveColor": "",
@@ -47,7 +47,7 @@
     "TooltipTextColor": null,
     "Children": {
       "AddFriendButton": {
-        "Bounds": "380,3,16,16",
+        "Bounds": "8,3,16,16",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -76,8 +76,8 @@
         "FontSize": null,
         "TextScale": 1.0,
         "NormalImage": "friendadd.png",
-        "HoveredImage": null,
-        "ClickedImage": null,
+        "HoveredImage": "friendadd.png",
+        "ClickedImage": "friendadd.png",
         "DisabledImage": "",
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
@@ -483,7 +483,7 @@
           "Padding": "4,4,4,4",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "0,0,0,0",
+          "Margin": "8,0,0,0",
           "RenderColor": "255,255,255,255",
           "Alignments": "",
           "DrawBackground": true,

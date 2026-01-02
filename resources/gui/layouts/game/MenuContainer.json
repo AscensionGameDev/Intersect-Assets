@@ -76,7 +76,7 @@
           "TextScale": 1.0,
           "NormalImage": "inventoryicon.png",
           "HoveredImage": "inventoryicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "inventoryicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -144,7 +144,7 @@
           "TextScale": 1.0,
           "NormalImage": "spellicon.png",
           "HoveredImage": "spellicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "spellicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -212,7 +212,7 @@
           "TextScale": 1.0,
           "NormalImage": "charactericon.png",
           "HoveredImage": "charactericon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "charactericon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -280,7 +280,7 @@
           "TextScale": 1.0,
           "NormalImage": "questsicon.png",
           "HoveredImage": "questsicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "questsicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -348,7 +348,7 @@
           "TextScale": 1.0,
           "NormalImage": "friendsicon.png",
           "HoveredImage": "friendsicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "friendsicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -416,7 +416,7 @@
           "TextScale": 1.0,
           "NormalImage": "partyicon.png",
           "HoveredImage": "partyicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "partyicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -484,7 +484,7 @@
           "TextScale": 1.0,
           "NormalImage": "guildicon.png",
           "HoveredImage": "guildicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "guildicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",
@@ -552,7 +552,7 @@
           "TextScale": 1.0,
           "NormalImage": "menuicon.png",
           "HoveredImage": "menuicon_hovered.png",
-          "ClickedImage": null,
+          "ClickedImage": "menuicon_hovered.png",
           "DisabledImage": null,
           "_stateSoundNames": {
             "Hover": "octave-tap-resonant.wav",

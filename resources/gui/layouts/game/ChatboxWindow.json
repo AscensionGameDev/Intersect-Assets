@@ -1,5 +1,5 @@
 {
-  "Bounds": "4,534,386,182",
+  "Bounds": "0,0,386,182",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "4,0,0,4",
@@ -25,7 +25,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "MessageList": {
-      "Bounds": "1,20,386,137",
+      "Bounds": "1,20,386,136",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -593,7 +593,7 @@
       "CenterImage": false
     },
     "Chatbar": {
-      "Bounds": "0,156,386,25",
+      "Bounds": "0,155,386,25",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -628,7 +628,7 @@
       "RenderColor": "255,255,255,255",
       "Alignments": "",
       "DrawBackground": false,
-      "MinimumSize": "1,1",
+      "MinimumSize": "100,16",
       "MaximumSize": "4096,16",
       "Disabled": false,
       "Hidden": false,
@@ -683,9 +683,9 @@
       "TextScale": 1.0
     },
     "ChatChannelCombobox": {
-      "Bounds": "320,160,61,17",
+      "Bounds": "323,158,58,20",
       "Dock": "None",
-      "Padding": "0,0,0,0",
+      "Padding": "4,4,1,4",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
       "Margin": "0,0,0,0",
@@ -693,7 +693,7 @@
       "Alignments": "",
       "DrawBackground": true,
       "MinimumSize": "1,1",
-      "MaximumSize": "4096,17",
+      "MaximumSize": "58,20",
       "Disabled": false,
       "Hidden": false,
       "RestrictToParent": false,
@@ -720,7 +720,7 @@
         "MouseDown": "octave-tap-warm.wav",
         "MouseUp": "octave-tap-warm.wav"
       },
-      "CenterImage": false,
+      "CenterImage": true,
       "MenuAbove": true,
       "DropDownButton": {
         "Bounds": "42,0,15,15",

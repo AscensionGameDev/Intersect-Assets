@@ -871,7 +871,7 @@
         }
       },
       "CraftButton": {
-        "Bounds": "330,394,96,35",
+        "Bounds": "330,394,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -899,10 +899,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",
@@ -911,7 +911,7 @@
         "CenterImage": false
       },
       "CraftAllButton": {
-        "Bounds": "210,394,96,35",
+        "Bounds": "210,394,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -939,10 +939,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",

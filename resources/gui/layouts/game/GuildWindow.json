@@ -433,9 +433,9 @@
         "FontName": null,
         "FontSize": null,
         "TextScale": 1.0,
-        "NormalImage": "smallbuttonnormal.png",
-        "HoveredImage": "smallbuttonhover.png",
-        "ClickedImage": "smallbuttonclicked.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
         "DisabledImage": "",
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",

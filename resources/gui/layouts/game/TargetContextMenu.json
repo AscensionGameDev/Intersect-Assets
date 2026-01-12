@@ -284,7 +284,7 @@
       "CenterImage": false
     }
   },
-  "BackgroundTemplate": "contextmenu.png",
+  "BackgroundTemplate": null,
   "ItemTextColor": "255,180,180,180",
   "ItemHoveredTextColor": "255,255,255,255",
   "ItemFontName": "sourcesansproblack",

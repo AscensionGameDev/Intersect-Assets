@@ -1304,9 +1304,9 @@
         "FontName": "sourcesansproblack",
         "FontSize": 10,
         "TextScale": 1.0,
-        "NormalImage": "control_button.png",
-        "HoveredImage": "control_button_hovered.png",
-        "ClickedImage": "control_button_clicked.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
         "DisabledImage": "",
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",

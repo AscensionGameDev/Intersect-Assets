@@ -67,7 +67,8 @@
       "DisabledTextColor": "255,33,33,33",
       "TextAlign": "Right",
       "AutoSizeToContents": false,
-      "Font": null,
+      "FontName": null,
+      "FontSize": null,
       "TextScale": 1.0,
       "NormalImage": null,
       "HoveredImage": null,
@@ -104,9 +105,11 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": "octave-tap-resonant.wav",
-      "MouseUpSound": null,
-      "MouseDownSound": "octave-tap-warm.wav"
+      "_stateSoundNames": {
+        "Hover": "octave-tap-resonant.wav",
+        "MouseDown": "octave-tap-warm.wav",
+        "MouseUp": "octave-tap-warm.wav"
+      }
     },
     "DownOrRightButton": {
       "Bounds": "0,0,15,15",
@@ -134,7 +137,8 @@
       "DisabledTextColor": "255,33,33,33",
       "TextAlign": "Right",
       "AutoSizeToContents": false,
-      "Font": null,
+      "FontName": null,
+      "FontSize": null,
       "TextScale": 1.0,
       "NormalImage": null,
       "HoveredImage": null,
@@ -195,7 +199,8 @@
       "DisabledTextColor": "255,33,33,33",
       "TextAlign": "Right",
       "AutoSizeToContents": false,
-      "Font": null,
+      "FontName": null,
+      "FontSize": null,
       "TextScale": 1.0,
       "NormalImage": null,
       "HoveredImage": null,
@@ -232,9 +237,11 @@
       "HoveredImage": null,
       "ClickedImage": null,
       "DisabledImage": null,
-      "HoverSound": "octave-tap-resonant.wav",
-      "MouseUpSound": null,
-      "MouseDownSound": "octave-tap-warm.wav"
+      "_stateSoundNames": {
+        "Hover": "octave-tap-resonant.wav",
+        "MouseDown": "octave-tap-warm.wav",
+        "MouseUp": "octave-tap-warm.wav"
+      }
     },
     "DownOrRightButton": {
       "Bounds": "0,0,15,15",
@@ -262,7 +269,8 @@
       "DisabledTextColor": "255,33,33,33",
       "TextAlign": "Right",
       "AutoSizeToContents": false,
-      "Font": null,
+      "FontName": null,
+      "FontSize": null,
       "TextScale": 1.0,
       "NormalImage": null,
       "HoveredImage": null,
@@ -276,8 +284,9 @@
       "CenterImage": false
     }
   },
-  "BackgroundTemplate": "contextmenu.png",
+  "BackgroundTemplate": null,
   "ItemTextColor": "255,175,175,175",
   "ItemHoveredTextColor": "255,255,255,255",
-  "ItemFont": "sourcesansproblack,10"
+  "ItemFontName": "sourcesansproblack",
+  "ItemFontSize": 10
 }

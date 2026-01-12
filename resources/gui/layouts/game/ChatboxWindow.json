@@ -683,7 +683,7 @@
       "TextScale": 1.0
     },
     "ChatChannelCombobox": {
-      "Bounds": "323,158,58,20",
+      "Bounds": "323,159,57,18",
       "Dock": "None",
       "Padding": "4,4,1,4",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -693,7 +693,7 @@
       "Alignments": "",
       "DrawBackground": true,
       "MinimumSize": "1,1",
-      "MaximumSize": "58,20",
+      "MaximumSize": "57,18",
       "Disabled": false,
       "Hidden": false,
       "RestrictToParent": false,
@@ -711,9 +711,9 @@
       "FontName": "sourcesansproblack",
       "FontSize": 10,
       "TextScale": 1.0,
-      "NormalImage": "chatbox_channels.png",
-      "HoveredImage": "chatbox_channels_hover.png",
-      "ClickedImage": "chatbox_channels_clicked.png",
+      "NormalImage": null,
+      "HoveredImage": null,
+      "ClickedImage": null,
       "DisabledImage": "",
       "_stateSoundNames": {
         "Hover": "octave-tap-resonant.wav",
@@ -1035,7 +1035,7 @@
               "CenterImage": false
             }
           },
-          "BackgroundTemplate": "contextmenu.png",
+          "BackgroundTemplate": null,
           "ItemTextColor": "255,180,180,180",
           "ItemHoveredTextColor": "255,255,255,255",
           "ItemFontName": "sourcesansproblack",
@@ -1136,7 +1136,7 @@
       "CenterImage": false
     },
     "ChatboxToggleLogButton": {
-      "Bounds": "302,160,17,17",
+      "Bounds": "301,159,17,17",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
@@ -1176,7 +1176,7 @@
       "CenterImage": false
     },
     "ChatboxClearLogButton": {
-      "Bounds": "283,160,17,17",
+      "Bounds": "281,159,17,17",
       "Dock": "None",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",

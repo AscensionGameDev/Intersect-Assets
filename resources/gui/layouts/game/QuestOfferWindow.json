@@ -419,7 +419,7 @@
         }
       },
       "AcceptButton": {
-        "Bounds": "56,388,96,35",
+        "Bounds": "56,388,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -447,10 +447,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",
@@ -459,7 +459,7 @@
         "CenterImage": false
       },
       "DeclineButton": {
-        "Bounds": "290,388,96,35",
+        "Bounds": "290,388,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -487,10 +487,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",

@@ -28,7 +28,7 @@
   "InnerPanel": {
     "Bounds": "0,28,225,299",
     "Dock": "Fill",
-    "Padding": "0,0,0,0",
+    "Padding": "2,2,2,2",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -47,12 +47,12 @@
     "TooltipTextColor": null,
     "Children": {
       "QuestList": {
-        "Bounds": "1,1,225,299",
+        "Bounds": "2,2,225,299",
         "Dock": "None",
-        "Padding": "0,0,0,0",
+        "Padding": "2,2,2,2",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "1,1,1,1",
+        "Margin": "2,2,2,2",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
         "DrawBackground": false,
@@ -336,7 +336,7 @@
         "MultiSelect": false,
         "IsToggle": false,
         "FontName": "sourcesansproblack",
-        "FontSize": 10,
+        "FontSize": 12,
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
         "ItemRightClickSound": null,
@@ -724,7 +724,7 @@
         "TextScale": 1.0
       },
       "BackButton": {
-        "Bounds": "9,268,96,35",
+        "Bounds": "9,268,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "50,0,0,0",
@@ -752,10 +752,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",
@@ -764,7 +764,7 @@
         "CenterImage": false
       },
       "AbandonQuestButton": {
-        "Bounds": "114,268,96,35",
+        "Bounds": "114,268,96,24",
         "Dock": "None",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "50,0,0,0",
@@ -792,10 +792,10 @@
         "FontName": "sourcesansproblack",
         "FontSize": 12,
         "TextScale": 1.0,
-        "NormalImage": "smallbutton.png",
-        "HoveredImage": "smallbutton_hovered.png",
-        "ClickedImage": "smallbutton_clicked.png",
-        "DisabledImage": "smallbutton_disabled.png",
+        "NormalImage": null,
+        "HoveredImage": null,
+        "ClickedImage": null,
+        "DisabledImage": null,
         "_stateSoundNames": {
           "Hover": "octave-tap-resonant.wav",
           "MouseDown": "octave-tap-warm.wav",
